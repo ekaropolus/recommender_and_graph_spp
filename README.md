@@ -1,2 +1,2 @@
 # recommender_and_graph_spp
-“PERSPECTIVAS DE DISEÑO EN SISTEMAS Y GRAFOS DE RECOMENDACIÓN PARA EL ANÁLISIS DE POLÍTICAS PÚBLICAS SOSTENIBLES
+Anexos y datos de la tesis "Perspectivas de diseño en sistemas y grafos de recomendación para el análisis de políticas públicas sostenibles"
