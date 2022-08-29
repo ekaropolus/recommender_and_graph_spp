@@ -1,0 +1,142 @@
+﻿ID,ANSI DATASET,TYPE,ID SDG
+ASDI.1,Atmospheric Models from Météo-France,weather,SDG13
+ASDI.2,Finnish Meteorological Institute Weather Radar Data,weather,SDG13
+ASDI.3,HIRLAM Weather Model,weather,SDG13
+ASDI.4,IDEAM - Colombian Radar Network,weather,SDG13
+ASDI.5,NEXRAD on AWS,weather,SDG13
+ASDI.6,NOAA Climate Forecast System (CFS),weather,SDG13
+ASDI.7,NOAA Global Ensemble Forecast System (GEFS),weather,SDG13
+ASDI.8,NOAA Global Ensemble Forecast System (GEFS) Re-forecast,weather,SDG13
+ASDI.9,NOAA Global Forecast System (GFS),weather,SDG13
+ASDI.10,NOAA Global Surface Summary of Day,weather,SDG13
+ASDI.11,NOAA High-Resolution Rapid Refresh (HRRR) Model,weather,SDG13
+ASDI.12,NOAA Integrated Surface Database (ISD),weather,SDG13
+ASDI.13,NOAA National Blend of Models (NBM),weather,SDG13
+ASDI.14,NOAA National Digital Forecast Database (NDFD),weather,SDG13
+ASDI.15,NOAA North American Mesoscale Forecast System (NAM),weather,SDG13
+ASDI.16,NOAA Rapid Refresh (RAP),weather,SDG13
+ASDI.17,NOAA Rapid Refresh Forecast System (RRFS) Ensemble [Prototype],weather,SDG13
+ASDI.18,NOAA Real-Time Mesoscale Analysis (RTMA),weather,SDG13
+ASDI.19,NOAA Severe Weather Data Inventory (SWDI),weather,SDG13
+ASDI.20,NOAA Unified Forecast System (UFS) Marine Reanalysis: 1979-2019,weather,SDG13
+ASDI.21,NOAA Unified Forecast System Short-Range Weather (UFS SRW) Application,weather,SDG13
+ASDI.22,NOAA Unified Forecast System Subseasonal to Seasonal Prototypes,weather,SDG13
+ASDI.23,NOAA Unified Forecast System Weather Model (UFS-WM) Regression Tests,weather,SDG13
+ASDI.24,NOAA Wave Ensemble Reforecast,weather,SDG13
+ASDI.25,Retired – UK Met Office Atmospheric Deterministic and Probabilistic Forecasts,weather,SDG13
+ASDI.26,SMN Hi-Res Weather Forecast over Argentina,weather,SDG13
+ASDI.27,SondeHub Radiosonde Telemetry,weather,SDG13
+ASDI.28,Storm EVent ImageRy (SEVIR),weather,SDG13
+ASDI.29,CAFE60 reanalysis,climate,SDG13
+ASDI.30,CAM6 Data Assimilation Research Testbed (DART) Reanalysis: Cloud-Optimized Dataset,climate,SDG13
+ASDI.31,CCAFS-Climate Data,climate,SDG13
+ASDI.32,CMIP6 GCMs downscaled using WRF,climate,SDG13
+ASDI.33,Community Earth System Model Large Ensemble (CESM LENS),climate,SDG13
+ASDI.34,Community Earth System Model v2 ARISE (CESM2 ARISE),climate,SDG13
+ASDI.35,Community Earth System Model v2 Large Ensemble (CESM2 LENS),climate,SDG13
+ASDI.36,Coupled Model Intercomparison Project 6,climate,SDG13
+ASDI.37,Coupled Model Intercomparison Project Phase 5 (CMIP5) University of Wisconsin-Madison Probabilistic Downscaling Dataset,climate,SDG13
+ASDI.38,Downscaled Climate Data for Alaska,climate,SDG13
+ASDI.39,ECMWF ERA5 Reanalysis,climate,SDG13
+ASDI.40,High Resolution Downscaled Climate Data for Southeast Alaska,climate,SDG13
+ASDI.41,NA-CORDEX - North American component of the Coordinated Regional Downscaling Experiment,climate,SDG13
+ASDI.42,NASA NEX,climate,SDG13
+ASDI.43,NOAA Atmospheric Climate Data Records,climate,SDG13
+ASDI.44,NOAA Fundamental Climate Data Records (FCDR),climate,SDG13
+ASDI.45,NOAA Global Historical Climatology Network Daily (GHCN-D),climate,SDG13
+ASDI.46,NOAA Oceanic Climate Data Records,climate,SDG13
+ASDI.47,NOAA Terrestrial Climate Data Records,climate,SDG13
+ASDI.48,NOAA U.S. Climate Gridded Dataset (NClimGrid),climate,SDG13
+ASDI.49,NOAA U.S. Climate Normals,climate,SDG13
+ASDI.50,SILO climate data on AWS,climate,SDG6
+ASDI.51,First Street Foundation (FSF) Flood Risk Summary Statistics,water,SDG6
+ASDI.52,NOAA Global Hydro Estimator (GHE),water,SDG6
+ASDI.53,NOAA National Water Model CONUS Retrospective Dataset,water,SDG6
+ASDI.54,NOAA National Water Model Short-Range Forecast,water,SDG6
+ASDI.55,RAPID NRT Flood Maps,water,SDG2
+ASDI.56,Africa Soil Information Service (AfSIS) Soil Chemistry,agriculture,SDG2
+ASDI.57,AgricultureVision,agriculture,SDG2
+ASDI.58,NAIP on AWS,agriculture,SDG2
+ASDI.59,iSDAsoil,agriculture,SDG17
+ASDI.60,CBERS on AWS,satellite imagery,SDG17
+ASDI.61,"Digital Earth Africa ALOS PALSAR, ALOS-2 PALSAR-2 and JERS-1",satellite imagery,SDG17
+ASDI.62,Digital Earth Africa GeoMAD,satellite imagery,SDG17
+ASDI.63,Digital Earth Africa Landsat Collection 2 Level 2,satellite imagery,SDG17
+ASDI.64,Digital Earth Africa Sentinel-1 Radiometrically Terrain Corrected,satellite imagery,SDG17
+ASDI.65,Digital Earth Africa Sentinel-2 Level-2A,satellite imagery,SDG17
+ASDI.66,Digital Earth Africa Water Observations from Space,satellite imagery,SDG17
+ASDI.67,ESA WorldCover,satellite imagery,SDG17
+ASDI.68,Global Seasonal Sentinel-1 Interferometric Coherence and Backscatter Data Set,satellite imagery,SDG17
+ASDI.69,ISERV,satellite imagery,SDG17
+ASDI.70,JMA Himawari-8,satellite imagery,SDG17
+ASDI.71,"MODIS MYD13A1, MOD13A1, MYD11A1, MOD11A1, MCD43A4",satellite imagery,SDG17
+ASDI.72,"NOAA Geostationary Operational Environmental Satellites (GOES) 16, 17 & 18",satellite imagery,SDG17
+ASDI.73,NOAA Global Mosaic of Geostationary Satellite Imagery (GMGSI),satellite imagery,SDG17
+ASDI.74,NOAA Joint Polar Satellite System (JPSS),satellite imagery,SDG17
+ASDI.75,Sentinel-1,satellite imagery,SDG17
+ASDI.76,Sentinel-1 SLC dataset for Germany,satellite imagery,SDG17
+ASDI.77,"Sentinel-1 SLC dataset for South and Southeast Asia, Taiwan, Korea and Japan",satellite imagery,SDG17
+ASDI.78,Sentinel-2,satellite imagery,SDG17
+ASDI.79,Sentinel-2 Cloud-Optimized GeoTIFFs,satellite imagery,SDG17
+ASDI.80,Sentinel-2 L2A 120m Mosaic,satellite imagery,SDG17
+ASDI.81,Sentinel-5P Level 2,satellite imagery,SDG17
+ASDI.82,SpaceNet,satellite imagery,SDG17
+ASDI.83,Terra Fusion Data Sampler,satellite imagery,SDG17
+ASDI.84,USGS Landsat,satellite imagery,SDG17
+ASDI.85,World Bank - Light Every Night,satellite imagery,SDG15
+ASDI.86,Copernicus Digital Elevation Model (DEM),elevation,SDG15
+ASDI.87,District of Columbia - Classified Point Cloud LiDAR,elevation,SDG15
+ASDI.88,NOAA Coastal Lidar Data,elevation,SDG15
+ASDI.89,NOAA Continuously Operating Reference Stations (CORS) Network (NCN),elevation,SDG15
+ASDI.90,New Jersey Statewide LiDAR,elevation,SDG15
+ASDI.91,Prefeitura Municipal de São Paulo (PMSP) LiDAR Point Cloud,elevation,SDG15
+ASDI.92,Scottish Public Sector LiDAR Dataset,elevation,SDG15
+ASDI.93,Terrain Tiles,elevation,SDG15
+ASDI.94,USGS 3DEP LiDAR Point Clouds,elevation,SDG3
+ASDI.95,EPA Risk-Screening Environmental Indicators,air quality,SDG11
+ASDI.96,GEOS-Chem Input Data,air quality,SDG3
+ASDI.97,OpenAQ,air quality,SDG11
+ASDI.98,Ozone Monitoring Instrument (OMI) / Aura NO2 Tropospheric Column Density,air quality,SDG3
+ASDI.99,SILAM Air Quality,air quality,SDG11
+ASDI.100,Safecast,air quality,SDG7
+ASDI.101,ARPA-E PERFORM Forecast data,energy,SDG7
+ASDI.102,ComStock,energy,SDG7
+ASDI.103,Department of Energy's Open Energy Data Initiative (OEDI),energy,SDG7
+ASDI.104,NREL National Solar Radiation Database,energy,SDG7
+ASDI.105,NREL Wind Integration National Dataset,energy,SDG7
+ASDI.106,PoroTomo,energy,SDG13
+ASDI.107,Daylight Map Distribution of OpenStreetMap,disaster response,SDG13
+ASDI.108,GeoNet Aotearoa New Zealand Data,disaster response,SDG13
+ASDI.109,High Resolution Population Density Maps + Demographic Estimates by CIESIN and Meta,disaster response,SDG13
+ASDI.110,Low Altitude Disaster Imagery (LADI) Dataset,disaster response,SDG13
+ASDI.111,Maxar Open Data Program,disaster response,SDG13
+ASDI.112,NOAA Emergency Response Imagery,disaster response,SDG13
+ASDI.113,OpenEEW,disaster response,SDG13
+ASDI.114,OpenStreetMap on AWS,disaster response,SDG13
+ASDI.115,Southern California Earthquake Data,disaster response,SDG13
+ASDI.116,U.S. Census ACS PUMS,disaster response,SDG14
+ASDI.117,Crowdsourced Bathymetry,oceans,SDG14
+ASDI.118,Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST),oceans,SDG14
+ASDI.119,NOAA Global Extratropical Surge and Tide Operational Forecast System (Global ESTOFS),oceans,SDG14
+ASDI.120,NOAA Global Real-Time Ocean Forecast System (Global RTOFS),oceans,SDG14
+ASDI.121,NOAA National Bathymetric Source Data,oceans,SDG14
+ASDI.122,NOAA Operational Forecast System (OFS),oceans,SDG14
+ASDI.123,NOAA S-102 Bathymetric Surface Data,oceans,SDG14
+ASDI.124,NOAA S-111 Surface Water Currents Data,oceans,SDG14
+ASDI.125,NOAA Water-Column Sonar Data Archive,oceans,SDG14
+ASDI.126,NOAA World Ocean Database (WOD),oceans,SDG14
+ASDI.127,NOAA/PMEL Ocean Climate Stations Moorings,oceans,SDG14
+ASDI.128,Sea Surface Temperature Daily Analysis: European Space Agency Climate Change Initiative product version 2.1,oceans,SDG8
+ASDI.129,"1940 Census Population Schedules, Enumeration District Maps, and Enumeration District Descriptions",socioeconomic,SDG8
+ASDI.130,"1950 Census Population Schedules, Enumeration District Maps, and Enumeration District Descriptions",socioeconomic,SDG8
+ASDI.131,"Geosnap Data, Center for Geospatial Sciences",socioeconomic,SDG8
+ASDI.132,Legal Entity Identifier (LEI) and Legal Entity Reference Data (LE-RD),socioeconomic,SDG9
+ASDI.133,Open City Model (OCM),infrastructure,SDG9
+ASDI.134,Swiss Public Transport Stops,infrastructure,SDG15
+ASDI.135,Natural Earth,ecosystems,SDG15
+ASDI.136,Sounds of Central African landscapes,ecosystems,SDG15
+ASDI.137,iNaturalist Licensed Observation Images,ecosystems,SDG15
+ASDI.138,Global Biodiversity Information Facility (GBIF) Species Occurrences,biodiversity,SDG15
+ASDI.139,National Herbarium of NSW,biodiversity,SDG15
+ASDI.140,Orcasound - bioacoustic data for marine conservation,biodiversity,SDG15
+ASDI.141,Pacific Ocean Sound Recordings,biodiversity,SDG15
