@@ -1,3 +1,8 @@
 # Recommender Systems for Sustainbale Public Policies
-Here we have
-* Anexos y datos de la tesis "Perspectivas de diseño en sistemas y grafos de recomendación para el análisis de políticas públicas sostenibles"
+This proyect relates to the use of Networks in order to understand public policies:
+
+# Stages
+1. Theory build on Networks for public recomendations
+2. Network database for public policies
+3. Networks visualization using AR visualizations
+4. Metaverse app for public engagement using NLP with expert.ia
