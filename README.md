@@ -1,10 +1,10 @@
 # Recommender and Graph Systems for Sustainable Public Policy
 
-Research materials for using networks, recommender systems, and structured policy data to analyze sustainable public policy.
+Doctoral thesis research materials for using networks, recommender systems, and structured policy data to analyze sustainable public policy.
 
 ## What It Is
 
-This repository explores how public policy documents, sustainability indicators, and institutional plans can be represented as graphs. The goal is to make policy structures easier to compare, recommend, and explain across places, themes, and development priorities.
+This repository contains work developed for Edgar Valdes's doctoral thesis. It explores how public policy documents, sustainability indicators, and institutional plans can be represented as graphs. The goal is to make policy structures easier to compare, recommend, and explain across places, themes, and development priorities.
 
 The project is part of a broader line of work around civic intelligence, policy analysis, and complexity-informed public decision systems.
 
