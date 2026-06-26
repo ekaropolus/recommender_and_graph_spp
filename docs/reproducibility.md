@@ -10,10 +10,11 @@ This repository now separates reproducibility into two tracks:
 - **Part I - Thesis-dependent archive:** validates that the thesis-supporting
   materials are documented, auditable, and free of committed credentials in the
   current files.
-- **Part II - Fully reproducible scholarship:** defines the additional work
-  required for a publication-grade computational package.
+- **Part II - Fully reproducible scholarship:** implements a deterministic
+  committed-input graph slice and defines the additional work required for a
+  DOI-grade computational package.
 
-The Part II plan lives in `reproducible-scholarship/`.
+The Part II implementation lives in `reproducible-scholarship/`.
 
 ## 1. Install Dependencies
 
@@ -49,7 +50,22 @@ This verifies:
 - tracked files do not contain common credential patterns;
 - expected data directories are present.
 
-## 4. Notebook Order
+## 4. Build Part II Outputs
+
+```bash
+python scripts/build_reproducible_scholarship.py
+python scripts/test_reproducible_scholarship.py
+```
+
+This generates and validates:
+
+- normalized ASDI dataset rows;
+- normalized SDG policy indicator rows;
+- portable graph nodes and edges;
+- source-file inventory with checksums;
+- run manifest and output checksums.
+
+## 5. Notebook Order
 
 The original Colab workflow is exploratory. For manual reconstruction, use this
 order:
@@ -60,7 +76,7 @@ order:
 4. `DS_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb`
 5. `NLP_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb`
 
-## 5. Known Reproducibility Gaps
+## 6. Known Reproducibility Gaps
 
 - The notebooks still need to be converted into deterministic scripts.
 - Neo4j database state should be represented as migration files or Cypher
@@ -69,9 +85,10 @@ order:
   `outputs/` or release artifact, not committed ad hoc.
 - Several data files need source-level provenance notes before formal release.
 
-## 6. Part II Hardening Path
+## 7. Remaining Publication Hardening Path
 
-The fully reproducible scholarship track should create a `src/` pipeline that:
+The fully reproducible scholarship track now includes a deterministic CSV graph
+slice. A DOI-grade release should still add a broader `src/` pipeline that:
 
 1. reads committed CSV/XLSX inputs;
 2. normalizes table names and schemas;

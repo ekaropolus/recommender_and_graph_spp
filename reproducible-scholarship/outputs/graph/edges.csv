@@ -1,0 +1,1157 @@
+edge_id,source_id,target_id,edge_type,source_path,attributes_json
+edge:004898ec15eefb42,policy_indicator:8.4.1,sdg_target:8.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:004ce7b5d88d16b0,file:790921ce62f6e811,asdi:ASDI.28,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:00580471f5929241,file:790921ce62f6e811,asdi:ASDI.63,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:007e3020080c13cf,sdg_target:16.2,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:00bab9202482f6c2,file:4f7c289bfa5e3248,policy_indicator:17.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:010b91ca5b0f4e79,sdg_target:12.7,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:013873e47e63a148,sdg_target:6.6,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:014ccaabd3db1a6b,policy_indicator:16.10.1,sdg_target:16.10,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:016eec966103fee6,asdi:ASDI.35,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:01872c8eca1645ce,sdg_target:12.2,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:018938ac8f6baedc,policy_indicator:2.2.1,sdg_target:2.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:018a3ed152599e7d,file:4f7c289bfa5e3248,policy_indicator:6.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:01a45c220ef848d3,track:part-i,file:790921ce62f6e811,CONTAINS_FILE,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""role"":""asdi_input""}"
+edge:02acdc145ecf606b,file:4f7c289bfa5e3248,policy_indicator:5.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:02b102025913a208,policy_indicator:9.2.2,sdg_target:9.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:02bb4a716b227cc5,track:part-i,file:a808aa331591784a,CONTAINS_FILE,Google Colab Notebooks/Neo4j_ASDI_Sustainable_Public_Policies.ipynb,"{""role"":""exploratory_notebook""}"
+edge:02f2e81cacddca4f,asdi:ASDI.109,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:030a6c5231539948,file:790921ce62f6e811,asdi:ASDI.112,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:03594d7586e0f4d5,policy_indicator:16.2.3,sdg_target:16.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:036850c1dd4612c6,asdi:ASDI.141,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:037d960ee1d1a6af,asdi:ASDI.73,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:03a31ed8ecd789a2,asdi:ASDI.75,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:03a6f5db91f379eb,asdi:ASDI.124,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:03f4336780f73b20,sdg_target:17.8,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:04b8b6ca9c425373,policy_indicator:8.10.1,sdg_target:8.10,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:04c12e725b561719,sdg_target:15.3,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:04e82c16ea2ab4e4,sdg_target:14.4,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:053a19d9b3924924,asdi:ASDI.62,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:05ad7f3175cc133b,asdi:ASDI.140,dataset_type:biodiversity,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:061a740001143b0e,file:790921ce62f6e811,asdi:ASDI.3,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:06258ae949d2865d,file:4f7c289bfa5e3248,policy_indicator:15.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:06363e0e089c50fe,sdg_target:17.1,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:069bc419d11a550e,file:790921ce62f6e811,asdi:ASDI.81,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0703267e5470f053,asdi:ASDI.11,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:07035b34e34705e1,asdi:ASDI.23,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0723b7eb89a3ce74,policy_indicator:10.a.1,sdg_target:10.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:073f8abd9c3a3fc5,policy_indicator:5.3.1,sdg_target:5.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:07572e988c62e858,policy_indicator:6.1.1,sdg_target:6.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:07b1efb5fc27c0ba,sdg_target:11.1,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:07eb863070c371ac,file:790921ce62f6e811,asdi:ASDI.80,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:082b9db689ef4155,sdg_target:16.3,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:083b6f6a3b4e4951,policy_indicator:7.2.1,sdg_target:7.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:086f2375232b7bea,asdi:ASDI.8,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:089934c7b0946cd2,file:790921ce62f6e811,asdi:ASDI.116,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:08cb45c489b0cfec,file:790921ce62f6e811,asdi:ASDI.90,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:08f0599c3380d354,sdg_target:3.d,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:090582d883208bd0,file:790921ce62f6e811,asdi:ASDI.47,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:098344e5da507da2,file:790921ce62f6e811,asdi:ASDI.97,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0a41e38fd717959b,file:4f7c289bfa5e3248,policy_indicator:17.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0adbd4bc9eab4286,policy_indicator:16.6.1,sdg_target:16.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0b4c552723b98b81,asdi:ASDI.96,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0b87967cac9d7a61,asdi:ASDI.121,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0bd46f6b374accc7,sdg_target:5.2,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0c4b14f63ce72170,file:4f7c289bfa5e3248,policy_indicator:17.11.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0ce6a187afd95b59,policy_indicator:17.19.2,sdg_target:17.19,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0cfc7d28f45f43c5,asdi:ASDI.69,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:0d045681e5a4ddcd,asdi:ASDI.12,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:0d4fb035f9a01744,asdi:ASDI.53,dataset_type:water,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0db1099aa9cb1673,policy_indicator:1.b.1,sdg_target:1.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0deb7b996c4a2169,track:part-i,file:f165de07473407ba,CONTAINS_FILE,Public Policies Tables/40 Tabla B40.xlsx,"{""role"":""public_policy_input""}"
+edge:0e0161137ee43be0,policy_indicator:16.6.2,sdg_target:16.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0ea673e9f9fec887,file:4f7c289bfa5e3248,policy_indicator:8.9.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0ebf7668047f8d4a,file:4f7c289bfa5e3248,policy_indicator:17.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:0f255f572196b9d4,asdi:ASDI.22,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0fa124231f6398c9,file:790921ce62f6e811,asdi:ASDI.135,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0fbc00f20c0f5506,file:790921ce62f6e811,asdi:ASDI.120,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:0fc75c08431722e1,policy_indicator:3.4.2,sdg_target:3.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:10330b4987c01d1f,asdi:ASDI.65,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:11d0920273da5e53,policy_indicator:16.4.2,sdg_target:16.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:11d4d4173e11e843,asdi:ASDI.131,sdg:8,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG8""}"
+edge:122ef6b170a3d126,policy_indicator:9.3.2,sdg_target:9.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:12743c324716187b,file:790921ce62f6e811,asdi:ASDI.17,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:127c45236e42b3c6,file:790921ce62f6e811,asdi:ASDI.8,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:128a8f6a954b365d,asdi:ASDI.57,dataset_type:agriculture,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:12900c4db1291881,policy_indicator:3.5.2,sdg_target:3.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:12e09bcb1827c65a,asdi:ASDI.28,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:12fb5542a40c7d0d,sdg_target:4.2,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1308ebb217596af8,policy_indicator:10.7.4,sdg_target:10.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1421281644ec185f,asdi:ASDI.105,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:142618c4e2e4b8ac,policy_indicator:1.5.4,sdg_target:1.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:14532df46d5dca6f,policy_indicator:16.10.2,sdg_target:16.10,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:146e5c55edd52f34,asdi:ASDI.81,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:14718ded4b734461,policy_indicator:11.5.1,sdg_target:11.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1493b755936a5c50,sdg_target:13.b,sdg:13,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:149e3bb5d16d2d10,sdg_target:6.2,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:14b851238bac92cd,file:4f7c289bfa5e3248,policy_indicator:2.a.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:14e147d53fcd6395,sdg_target:9.1,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1504d9f4abba7515,file:790921ce62f6e811,asdi:ASDI.95,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:152b717c88d0f297,file:4f7c289bfa5e3248,policy_indicator:15.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:153c3528185f7d18,sdg_target:4.4,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:15522f43d32d6699,policy_indicator:16.9.1,sdg_target:16.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1605d2067ba1309a,asdi:ASDI.25,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:161f037097e32c7c,file:790921ce62f6e811,asdi:ASDI.96,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:164c176f7ab550d9,asdi:ASDI.55,dataset_type:water,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1677b2c8662446ec,file:4f7c289bfa5e3248,policy_indicator:8.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:169b5d5d8c306837,asdi:ASDI.71,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:16ade563c720bae2,file:4f7c289bfa5e3248,policy_indicator:17.18.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:16c4599757bb67c8,sdg_target:10.1,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:16e098ebdb45bb31,file:4f7c289bfa5e3248,policy_indicator:2.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:17b77c11d02765c8,policy_indicator:17.18.3,sdg_target:17.18,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:186e071fe8716969,file:4f7c289bfa5e3248,policy_indicator:10.7.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:18739849c8780b0c,asdi:ASDI.20,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:188202ba378a626f,file:4f7c289bfa5e3248,policy_indicator:8.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:18922e15ef68a114,asdi:ASDI.123,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:18c48f973d42ea90,asdi:ASDI.82,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:18e59549a92ed98f,policy_indicator:15.c.1,sdg_target:15.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:18f9d55160ddb185,file:790921ce62f6e811,asdi:ASDI.126,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:199235964a55eac7,file:4f7c289bfa5e3248,policy_indicator:16.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:19abffeaf30baff8,asdi:ASDI.65,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:19b8a1abc4b6cc26,track:part-i,file:72e88958b11e10b8,CONTAINS_FILE,Public Policies Tables/01 Tabla B1.xlsx,"{""role"":""public_policy_input""}"
+edge:19d85894dae76691,asdi:ASDI.66,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:19e543181c56fb47,file:790921ce62f6e811,asdi:ASDI.13,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1a03bf39f7d22510,asdi:ASDI.88,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1a52180b5802a55e,policy_indicator:2.5.2,sdg_target:2.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1ab04f6766a9ecfd,file:790921ce62f6e811,asdi:ASDI.57,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1ab8bd9c370c6128,sdg_target:1.5,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1adfd32b50a975cf,file:4f7c289bfa5e3248,policy_indicator:13.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1b0436ae52a1dff2,file:4f7c289bfa5e3248,policy_indicator:3.8.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1b163a9002833b55,file:4f7c289bfa5e3248,policy_indicator:15.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1b20146e023d79fe,policy_indicator:17.1.1,sdg_target:17.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1b312a212ae1aef6,asdi:ASDI.30,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1b47ddf54b5ae061,file:4f7c289bfa5e3248,policy_indicator:8.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1b57b6169f4bce90,policy_indicator:4.c.1,sdg_target:4.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1ba7f58fd4666df2,asdi:ASDI.63,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:1bde890f869fe90c,asdi:ASDI.32,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:1cb3d0933f7ace60,file:790921ce62f6e811,asdi:ASDI.82,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1cf2fb3fa1be891b,asdi:ASDI.47,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1cf6b80adc2725a4,file:790921ce62f6e811,asdi:ASDI.49,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1d0284d4dfd1c5da,asdi:ASDI.93,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1d0c220d3db29cd8,policy_indicator:17.3.2,sdg_target:17.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1d0fc232ebdce31b,policy_indicator:8.5.2,sdg_target:8.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1d1c313325e9abf9,file:4f7c289bfa5e3248,policy_indicator:7.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1d3637a869cf03a9,file:4f7c289bfa5e3248,policy_indicator:17.16.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1d3ee177d63e0c49,asdi:ASDI.60,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:1d47b366e136c4a7,file:790921ce62f6e811,asdi:ASDI.53,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1d711109e95a07e0,policy_indicator:3.b.2,sdg_target:3.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1d91f4e3b1388d5a,sdg_target:15.2,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1dddc6f7db5cf737,asdi:ASDI.51,sdg:6,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG6""}"
+edge:1e5655441860b721,sdg_target:10.6,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1edc7c6e7fa1d2d9,file:4f7c289bfa5e3248,policy_indicator:12.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1eeb8f6f72b5fe49,file:4f7c289bfa5e3248,policy_indicator:25a2aa9f86d5a414,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1f003f20811cb732,asdi:ASDI.134,dataset_type:infrastructure,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1f5b1880be3bd770,asdi:ASDI.117,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:1f5b3dae60bf6082,file:4f7c289bfa5e3248,policy_indicator:6.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1f982048a292564d,asdi:ASDI.45,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:1fb7752216faeac3,asdi:ASDI.68,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:1fc030926a5e9100,policy_indicator:16.3.1,sdg_target:16.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:1fd1de2765f68042,file:790921ce62f6e811,asdi:ASDI.111,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:20a0835d88ca9e14,sdg_target:12.a,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:20d90ad78a1ade92,policy_indicator:10.7.1,sdg_target:10.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:20da6a6f4dbf3ba0,file:790921ce62f6e811,asdi:ASDI.10,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:20f8ae3aa1e68c12,file:790921ce62f6e811,asdi:ASDI.52,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2194b3b316510329,asdi:ASDI.122,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:21be0903a763246c,track:part-i,file:f16b54f7ff807882,CONTAINS_FILE,Public Policies Tables/19 Tabla B19.xlsx,"{""role"":""public_policy_input""}"
+edge:21eab066503fd384,file:790921ce62f6e811,asdi:ASDI.4,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:21f199dcecd454a4,asdi:ASDI.85,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:22143dd7902e848e,file:4f7c289bfa5e3248,policy_indicator:15.9.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2224e599b5248762,policy_indicator:3.8.2,sdg_target:3.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:224d0fcbbe91e5ad,sdg_target:3.2,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:226282470ea4b8d5,policy_indicator:16.b.1,sdg_target:16.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:229e62164641d9f5,asdi:ASDI.8,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:22f6449acf28d51a,file:4f7c289bfa5e3248,policy_indicator:1.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2369e1068b319860,sdg_target:17.13,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:239205830cd0b1af,policy_indicator:15.5.1,sdg_target:15.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:24af2bdd3cbaa51c,asdi:ASDI.15,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:24d0954bfa43cbfe,asdi:ASDI.78,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:2514f9eb47c25fbd,asdi:ASDI.20,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:2572ceb2bc2f1d8d,policy_indicator:8.1.1,sdg_target:8.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:25a82add7bbdacc7,file:790921ce62f6e811,asdi:ASDI.45,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:25bcc2240462dce1,file:4f7c289bfa5e3248,policy_indicator:16.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:25e279cab731b964,policy_indicator:16.8.1,sdg_target:16.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:264f9b986f3ed651,track:part-i,file:99443862f7fcc930,CONTAINS_FILE,Public Policies Tables/29 Tabla B29.xlsx,"{""role"":""public_policy_input""}"
+edge:268eab8eccf6128e,file:4f7c289bfa5e3248,policy_indicator:5.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:26a6ad401f18763a,policy_indicator:5.2.2,sdg_target:5.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:26ac9a8be4a97ba4,asdi:ASDI.14,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:26b71ae4a17760a0,asdi:ASDI.40,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:26e792008ee2b0bd,policy_indicator:10.5.1,sdg_target:10.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:27214186191bc1e2,track:part-i,file:df3e0ffc4f655a01,CONTAINS_FILE,Public Policies Tables/03 Tabla B3.xlsx,"{""role"":""public_policy_input""}"
+edge:27a42c9aecd8c6b7,policy_indicator:16.2.1,sdg_target:16.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:27b127cad0f32626,policy_indicator:8.5.1,sdg_target:8.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:27ba983c9d1abcba,file:4f7c289bfa5e3248,policy_indicator:7.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:27c63a749e08cf43,asdi:ASDI.89,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2816cfd88558e4a8,file:790921ce62f6e811,asdi:ASDI.108,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2925eb305e69836a,sdg_target:4.1,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:298fd708057a8dda,asdi:ASDI.33,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:299d2027ef509bce,asdi:ASDI.127,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:29ff79b73f88f3bd,file:4f7c289bfa5e3248,policy_indicator:6.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2a0df072fceb8b7e,file:4f7c289bfa5e3248,policy_indicator:8.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2a171371adb81ab9,policy_indicator:3.d.2,sdg_target:3.d,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2ab1d5849273adc4,policy_indicator:7.a.1,sdg_target:7.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2ad0bc7dfbc11e83,sdg_target:14.5,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2ad7ea2ba9a631b3,sdg_target:16.5,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2b137bf98ac8b932,sdg_target:15.9,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2b18a4fab98402eb,track:part-i,file:c445d4fcad6c529b,CONTAINS_FILE,Public Policies Tables/48 Tabla 19.xlsx,"{""role"":""public_policy_input""}"
+edge:2b2f1293694ac8e8,file:4f7c289bfa5e3248,policy_indicator:16.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2b48d72218150f28,policy_indicator:6.4.2,sdg_target:6.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2b55ec20aea05a0d,track:part-i,file:f3580290ebb414f5,CONTAINS_FILE,Public Policies Tables/35 Tabla B35.xlsx,"{""role"":""public_policy_input""}"
+edge:2c00e56d9917a98e,asdi:ASDI.138,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:2c76760372aec64c,asdi:ASDI.77,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2cb80a9db0967524,file:4f7c289bfa5e3248,policy_indicator:17.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2cc6f590dac8cb7a,policy_indicator:5.c.1,sdg_target:5.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2d3d3f263c356d35,file:790921ce62f6e811,asdi:ASDI.121,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2d601080746929a2,policy_indicator:1.2.2,sdg_target:1.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2d7b779a229e7d7b,file:790921ce62f6e811,asdi:ASDI.2,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:2d825d91b47b4496,file:4f7c289bfa5e3248,policy_indicator:3.d.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2dc730a7b74647e0,sdg_target:7.b,sdg:7,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2debef8e4dac35b8,sdg_target:8.4,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2e6c21aa65e708d2,policy_indicator:10.6.1,sdg_target:10.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2e7467e2a681450f,sdg_target:6.4,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2e99d0005c3ffb7e,asdi:ASDI.40,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:2e9ef8c71afcde31,sdg_target:17.2,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2ee05ba6d50387f2,asdi:ASDI.64,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:2ef35f31a02656af,policy_indicator:16.a.1,sdg_target:16.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:2fc5443274debe23,policy_indicator:8.8.1,sdg_target:8.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3009d80bc8b66c74,asdi:ASDI.74,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:300eb51f413663bb,policy_indicator:17.12.1,sdg_target:17.12,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:30473c775eec0aa8,file:790921ce62f6e811,asdi:ASDI.56,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:30c8428123cd46fe,asdi:ASDI.137,dataset_type:ecosystems,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:30dbadb3fd3c0b67,sdg_target:9.c,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:310463fab40dcb0e,asdi:ASDI.132,dataset_type:socioeconomic,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:313dc47c6ebf60ae,policy_indicator:9.2.1,sdg_target:9.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:317f3dcd14192799,file:790921ce62f6e811,asdi:ASDI.11,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:321d5b9346b29f6d,track:part-i,file:667534b52aea5a2b,CONTAINS_FILE,Public Policies Tables/24 Tabla B24.xlsx,"{""role"":""public_policy_input""}"
+edge:326e544e7b15be38,asdi:ASDI.130,dataset_type:socioeconomic,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:32c044eeae6e5ba3,sdg_target:3.a,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:32c4e1d20c2af08e,sdg_target:11.4,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:32cc3d30142201dd,sdg_target:8.b,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:32ecec1850c56506,file:4f7c289bfa5e3248,policy_indicator:13.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:32f6eb8fb4d64712,file:790921ce62f6e811,asdi:ASDI.92,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:333e67464439ba76,policy_indicator:10.2.1,sdg_target:10.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:33451ff64e419880,asdi:ASDI.73,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:336bb22fbed7093f,sdg_target:4.c,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:33793bec790210bb,file:790921ce62f6e811,asdi:ASDI.37,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:33b6716d68ed1d06,file:4f7c289bfa5e3248,policy_indicator:15.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:33d0433893b0bfde,file:4f7c289bfa5e3248,policy_indicator:14.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:33df6333a4f1c9e7,policy_indicator:9.b.1,sdg_target:9.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3402d81978cc6cff,file:790921ce62f6e811,asdi:ASDI.94,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:34750ed83f382341,asdi:ASDI.39,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3479dc5bfc00a140,track:part-i,file:e69766a595ced9a8,CONTAINS_FILE,Public Policies Tables/32 Tabla B32.xlsx,"{""role"":""public_policy_input""}"
+edge:34b6f7d0b946ee4c,file:790921ce62f6e811,asdi:ASDI.122,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:34efdc30d390f953,file:4f7c289bfa5e3248,policy_indicator:4fa7ccb86ef43dab,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:355909e2e73fa2cd,file:4f7c289bfa5e3248,policy_indicator:11.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:356900daf04846c1,sdg_target:9.a,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:357132df48ba5f43,file:4f7c289bfa5e3248,policy_indicator:3.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:357159accc4dffd6,policy_indicator:1.3.1,sdg_target:1.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:35781d0892887281,track:part-i,file:d28963e76e445bf3,CONTAINS_FILE,Public Policies Tables/05 Tabla B5.xlsx,"{""role"":""public_policy_input""}"
+edge:3589fb69a4bcfe93,policy_indicator:17.3.1,sdg_target:17.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:35bc512a959309a6,file:4f7c289bfa5e3248,policy_indicator:17.17.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3644799a47afea83,file:4f7c289bfa5e3248,policy_indicator:16.10.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:36479ab8b4e7a038,track:part-i,file:852253fbdcf53b2e,CONTAINS_FILE,Public Policies Tables/43 Tabla B43.xlsx,"{""role"":""public_policy_input""}"
+edge:364f87bb2482228b,file:4f7c289bfa5e3248,policy_indicator:10.7.4,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:36c2879a8d0c3a76,policy_indicator:6.2.1,sdg_target:6.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:377d9a0fe3cc7e9b,file:790921ce62f6e811,asdi:ASDI.83,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:37cc46785bad7b32,policy_indicator:2.a.1,sdg_target:2.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:382d02beb2bc8533,file:4f7c289bfa5e3248,policy_indicator:4.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3892eba72e7615b5,file:4f7c289bfa5e3248,policy_indicator:16.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:38a87a9831ed8a36,file:4f7c289bfa5e3248,policy_indicator:4.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:38d7fe154ce25351,file:4f7c289bfa5e3248,policy_indicator:8.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3917364171267742,file:4f7c289bfa5e3248,policy_indicator:6.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:39392f66eb0eea22,asdi:ASDI.141,dataset_type:biodiversity,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3946ef5102ab1f07,track:part-i,file:326476eacc6c6f53,CONTAINS_FILE,Public Policies Tables/45 Tabla B45.xlsx,"{""role"":""public_policy_input""}"
+edge:39677973b34560cc,file:4f7c289bfa5e3248,policy_indicator:5.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:399d59201b6d27b3,policy_indicator:11.6.1,sdg_target:11.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:39c09ce52b809d68,file:4f7c289bfa5e3248,policy_indicator:3.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3a2c7b89327175fc,sdg_target:6.b,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3a46fe39df042b83,file:790921ce62f6e811,asdi:ASDI.93,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3a7d9c115325fcde,file:790921ce62f6e811,asdi:ASDI.128,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3abc4487a7f59609,policy_indicator:2.2.2,sdg_target:2.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3b056c8aff772b31,file:4f7c289bfa5e3248,policy_indicator:10.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3b2206be056ea9f2,track:part-i,file:988762a7e8e3c5a9,CONTAINS_FILE,Public Policies Tables/31 Tabla B31.xlsx,"{""role"":""public_policy_input""}"
+edge:3b2f4671de533066,file:4f7c289bfa5e3248,policy_indicator:5.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3b70e2f2085633db,policy_indicator:17.4.1,sdg_target:17.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3b8273b9b398839e,file:4f7c289bfa5e3248,policy_indicator:17.9.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3bce2e1231500a90,file:790921ce62f6e811,asdi:ASDI.141,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3c08028569b6ea02,file:4f7c289bfa5e3248,policy_indicator:8.10.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3c3f0a3c9ccbbb3c,policy_indicator:13.b.1,sdg_target:13.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3cdba03459faca27,sdg_target:5.c,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3dd50276eecbce6f,asdi:ASDI.28,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:3e16b7a7b8b532b8,sdg_target:7.2,sdg:7,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3e267e5ab55fbdea,sdg_target:15.b,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3e54d809b9476c19,asdi:ASDI.140,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:3e5874f16cba6dc4,file:4f7c289bfa5e3248,policy_indicator:15.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3ebd4b077b36a313,policy_indicator:4.b.1,sdg_target:4.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3f014014cc833bcb,file:790921ce62f6e811,asdi:ASDI.61,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3f03601b1a0f54c3,file:4f7c289bfa5e3248,policy_indicator:12.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3f210468b5f38526,file:4f7c289bfa5e3248,policy_indicator:14.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3f8498a1231fb693,file:790921ce62f6e811,asdi:ASDI.41,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:3f8fe96f05f76516,sdg_target:9.3,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3fa8aefefe06a22a,sdg_target:12.b,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3fb982f237a25c64,sdg_target:3.1,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:3fd421af97d7bbc6,policy_indicator:11.7.1,sdg_target:11.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:400a94f241a15697,file:4f7c289bfa5e3248,policy_indicator:16.9.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:40551ec88999cc67,sdg_target:16.4,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4071c617d42fad28,policy_indicator:17.13.1,sdg_target:17.13,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4076ae5ec61f809f,file:4f7c289bfa5e3248,policy_indicator:2.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:40912f7ed062d960,file:790921ce62f6e811,asdi:ASDI.127,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:40f563cfd2806f35,track:part-i,file:9add99e9c823e45a,CONTAINS_FILE,Public Policies Tables/47 Tabla 17.xlsx,"{""role"":""public_policy_input""}"
+edge:40fec414f93548f4,asdi:ASDI.9,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:410282a331ece2a5,policy_indicator:17.7.1,sdg_target:17.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:41933b361abe8f9c,policy_indicator:1.a.2,sdg_target:1.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:41c405d97c0faee6,sdg_target:14.7,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:41ce4d37cccd2a50,asdi:ASDI.84,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:425b5f71f36dada3,sdg_target:17.7,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:427d8d11490360cd,sdg_target:3.c,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:42aea8d8cd6970a0,sdg_target:16.8,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:42baede0627865b7,sdg_target:1.2,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:43b6497b443d1e14,sdg_target:16.a,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:43ec9a2dd048a3cc,file:4f7c289bfa5e3248,policy_indicator:17.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:440978a48a87c3ff,track:part-i,file:72d01dab1390b031,CONTAINS_FILE,Google Colab Notebooks/Extractor_Neo4j_ASDI_GBIF.ipynb,"{""role"":""exploratory_notebook""}"
+edge:44522f29dbc654e8,sdg_target:9.2,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:44e7c66663353ecd,file:790921ce62f6e811,asdi:ASDI.77,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4534ac0e753f49e5,policy_indicator:16.7.2,sdg_target:16.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:45582f830037c6e7,file:790921ce62f6e811,asdi:ASDI.26,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4565d530950a1abb,sdg_target:5.4,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:45ccce60d95a783c,track:part-i,file:e64310454e648f5e,CONTAINS_FILE,Public Policies Tables/26 Tabla B26.xlsx,"{""role"":""public_policy_input""}"
+edge:46033fa558edc9eb,file:790921ce62f6e811,asdi:ASDI.55,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:462b2b15d8cf68d4,file:4f7c289bfa5e3248,policy_indicator:8.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:46985cf762955f8b,asdi:ASDI.69,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:46f25603a7f44e70,track:part-i,file:4f7c289bfa5e3248,CONTAINS_FILE,Public Policies Tables/01 Tabla B1.csv,"{""role"":""public_policy_input""}"
+edge:470338e988ef1683,file:790921ce62f6e811,asdi:ASDI.125,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:47493be25c1ddabd,policy_indicator:9.3.1,sdg_target:9.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4779a35988065fe6,sdg_target:3.7,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:47f4732be83a2aa8,asdi:ASDI.42,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:4838257f2b04d800,asdi:ASDI.111,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:48643d2bfdc2165c,asdi:ASDI.44,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:486abb1bd342ccb1,sdg_target:8.9,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:48a83698afd094cc,asdi:ASDI.70,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:48bb9164ecc22ac1,sdg_target:12.5,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:48ffc650855bdda4,file:4f7c289bfa5e3248,policy_indicator:3.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:497ae8ad52ff15bd,asdi:ASDI.107,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4996f22dbcee5bde,file:4f7c289bfa5e3248,policy_indicator:1.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:49b9902412ecebbc,policy_indicator:3.3.3,sdg_target:3.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4a214cb81cbc842f,track:part-i,file:5cec8554c61422e8,CONTAINS_FILE,Google Colab Notebooks/Extractor_Neo4j_ASDI_Sustainable_Public_Policies_MX.ipynb,"{""role"":""exploratory_notebook""}"
+edge:4a3d17be0a6e2cbb,track:part-i,file:e79a0cfee144d315,CONTAINS_FILE,Public Policies Tables/46 Tabla B46.xlsx,"{""role"":""public_policy_input""}"
+edge:4b8ac1d58686f468,file:4f7c289bfa5e3248,policy_indicator:17.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4be92e0484a82ad0,policy_indicator:11.2.1,sdg_target:11.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4c1e4da4e4c35610,policy_indicator:1.a.1,sdg_target:1.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4c877cbe6d788510,policy_indicator:8.9.1,sdg_target:8.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4cfbd79b9aef1bda,asdi:ASDI.103,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4d173cc4ee3e1423,track:part-i,file:413ff7f2955a358f,CONTAINS_FILE,Public Policies Tables/18 Tabla B18.xlsx,"{""role"":""public_policy_input""}"
+edge:4da0cfb88d54b293,file:4f7c289bfa5e3248,policy_indicator:17.15.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4da7bdd3aec0b89c,file:790921ce62f6e811,asdi:ASDI.79,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4db94bbb2c13a5d1,file:790921ce62f6e811,asdi:ASDI.123,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4e11fcb70d3b75c7,policy_indicator:15.1.1,sdg_target:15.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4f28fc6c9049660a,asdi:ASDI.63,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4f31cc96fd946753,file:790921ce62f6e811,asdi:ASDI.31,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4f59078c2dbf5b6e,sdg_target:11.5,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:4fdce6630e5c560f,asdi:ASDI.66,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:4fef67bc2e2c49f9,file:4f7c289bfa5e3248,policy_indicator:2.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:500626b6ca72036b,policy_indicator:4.5.1,sdg_target:4.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5031afbb6bfd7da4,file:4f7c289bfa5e3248,policy_indicator:5.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:50956c6409e8e0e7,track:part-i,file:f0215c622d6e6955,CONTAINS_FILE,Public Policies Tables/33 Tabla B33.xlsx,"{""role"":""public_policy_input""}"
+edge:50ee9533fc33d61c,asdi:ASDI.125,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:50f82894e2e77dd3,file:4f7c289bfa5e3248,policy_indicator:4.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5134d09cb7bdaa12,file:4f7c289bfa5e3248,policy_indicator:7.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:513b74c17cd9433e,file:4f7c289bfa5e3248,policy_indicator:4.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:513c9f2ad6f19d01,policy_indicator:3.2.1,sdg_target:3.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:514d8a5de2e425b7,asdi:ASDI.67,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:519e47804d05bebe,sdg_target:3.4,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:51cd79f21993e2a6,sdg_target:14.6,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:521352ab0aa4e8bf,file:4f7c289bfa5e3248,policy_indicator:11.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5257ee817acd5497,asdi:ASDI.120,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:525bd84b94d5d989,sdg_target:16.1,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:52bbc7749ee1647d,file:4f7c289bfa5e3248,policy_indicator:8.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:52d94b3b38f1c175,file:4f7c289bfa5e3248,policy_indicator:7.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:537c66a4880227bf,sdg_target:15.4,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:538c656ef1f99359,file:790921ce62f6e811,asdi:ASDI.72,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:53aa804fcac6bc2b,asdi:ASDI.59,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:53b326a1b65cbcc4,file:4f7c289bfa5e3248,policy_indicator:13.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:54513394b3dcff45,file:4f7c289bfa5e3248,policy_indicator:6.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:547efb5a35ba324e,file:4f7c289bfa5e3248,policy_indicator:16.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:549c8889babc2c89,asdi:ASDI.61,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:54c5f303f45aa007,file:4f7c289bfa5e3248,policy_indicator:3.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:55107bb6ef277cf7,file:790921ce62f6e811,asdi:ASDI.88,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:551a9d91dde25216,file:790921ce62f6e811,asdi:ASDI.118,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:55212827a124073e,asdi:ASDI.113,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:55adec03de1d3892,sdg_target:4.5,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:564d3fe8f2be5505,asdi:ASDI.17,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:56ae649beb1291b2,sdg_target:2.b,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:56dbc592aaa77940,file:4f7c289bfa5e3248,policy_indicator:14.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:57017fedef5ed80a,file:790921ce62f6e811,asdi:ASDI.102,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5753ce47034a6f03,asdi:ASDI.44,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5794bbda7e821956,file:4f7c289bfa5e3248,policy_indicator:2.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:579bb3b3f33cdfbf,file:4f7c289bfa5e3248,policy_indicator:13.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:57bd4a6cf0d16ba9,policy_indicator:4fa7ccb86ef43dab,sdg_target:11.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:57c32303d6a8dead,asdi:ASDI.75,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:57fa98365a30ae28,file:4f7c289bfa5e3248,policy_indicator:2.2.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5923fa6e7a883399,asdi:ASDI.42,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:59a1f31d7a6862a5,file:4f7c289bfa5e3248,policy_indicator:4.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5a589ac825dd8219,file:4f7c289bfa5e3248,policy_indicator:9.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5a9a6cca294577ef,file:4f7c289bfa5e3248,policy_indicator:6.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5aa98500054cf45d,file:4f7c289bfa5e3248,policy_indicator:16.7.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5b00440d3a860b96,policy_indicator:542066639f12a7e0,sdg_target:12.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5b8f1985f24759e7,policy_indicator:15.6.1,sdg_target:15.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5bb2c259676ac9c5,policy_indicator:5.6.1,sdg_target:5.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5bb3c0a07458107a,asdi:ASDI.29,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:5bbbdc0744ae9bb4,asdi:ASDI.103,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:5c81889e40f2d320,file:4f7c289bfa5e3248,policy_indicator:3.3.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5c9cd104062db42b,asdi:ASDI.139,dataset_type:biodiversity,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5cd00b2368d9bab1,asdi:ASDI.83,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5d283c41d9bcfa32,policy_indicator:3.3.4,sdg_target:3.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5d3f87917a07a464,file:4f7c289bfa5e3248,policy_indicator:10.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5d51107ed578d3da,asdi:ASDI.94,sdg:3,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG3""}"
+edge:5d64ec0c5208b0fa,asdi:ASDI.26,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:5d6d2a981a54bcae,file:790921ce62f6e811,asdi:ASDI.70,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5df78f7ba399ffd4,policy_indicator:9.4.1,sdg_target:9.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5e2174adfc6bb675,asdi:ASDI.83,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:5e2543d7eefd130c,file:790921ce62f6e811,asdi:ASDI.76,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5e3ed7e980e8b7d9,policy_indicator:11.5.2,sdg_target:11.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5e558376b71e144a,asdi:ASDI.9,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:5e65400c2f5d6574,asdi:ASDI.24,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:5ebc3c0f6dbbf63c,file:4f7c289bfa5e3248,policy_indicator:3.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5ec09bfc86745eb7,asdi:ASDI.31,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5ecf9d35c3ef6cd1,file:4f7c289bfa5e3248,policy_indicator:10.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5eeeebaae4542ee9,policy_indicator:296eda00455634fd,sdg_target:13.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5f24eb21a7eb7c77,file:790921ce62f6e811,asdi:ASDI.1,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5f3691c9ad8ad8d1,file:790921ce62f6e811,asdi:ASDI.54,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5f4778e67675cf35,asdi:ASDI.48,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5f6d925dcd813c8d,file:4f7c289bfa5e3248,policy_indicator:3.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5f9018092c4199d3,asdi:ASDI.37,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:5fdf935b29b8c2cd,file:4f7c289bfa5e3248,policy_indicator:3.3.4,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:5feb32c00fe7a782,policy_indicator:2.5.1,sdg_target:2.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:603bfa23f62e1f95,policy_indicator:15.2.1,sdg_target:15.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:60723fbdaadb2337,asdi:ASDI.72,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:60c76c0770fb1b62,asdi:ASDI.130,sdg:8,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG8""}"
+edge:612fe15469124724,policy_indicator:10.7.2,sdg_target:10.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6181fe5f389fa8fd,file:4f7c289bfa5e3248,policy_indicator:3.b.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:620bd90a48e1c95c,asdi:ASDI.101,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:623664239449d442,policy_indicator:8.b.1,sdg_target:8.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6264ae523cb0a4c1,track:part-i,file:239a9cdfa999fbb4,CONTAINS_FILE,ASDI Tables/README.md,"{""role"":""asdi_input""}"
+edge:62e48078c0cb505c,file:4f7c289bfa5e3248,policy_indicator:11.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:63ce2959d27bca6e,policy_indicator:2.c.1,sdg_target:2.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:63db562fd4f0439a,sdg_target:11.b,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:63ea1667b2b13767,file:4f7c289bfa5e3248,policy_indicator:10.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:63f1e869b069a987,policy_indicator:11.3.1,sdg_target:11.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:64028f110feed5f1,file:4f7c289bfa5e3248,policy_indicator:3.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:642e6d5e458913c5,asdi:ASDI.51,dataset_type:water,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6452214e202d156a,file:790921ce62f6e811,asdi:ASDI.33,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:64f8942d920f315a,policy_indicator:5.a.1,sdg_target:5.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6543896444cbe0ec,file:790921ce62f6e811,asdi:ASDI.34,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6544d8fa0e145b7a,asdi:ASDI.13,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:655081a93ebd15b3,sdg_target:17.15,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:65f0104ad315ede1,file:4f7c289bfa5e3248,policy_indicator:16.2.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:660083a7449deb85,file:790921ce62f6e811,asdi:ASDI.69,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:66029e42b372c297,policy_indicator:6.5.2,sdg_target:6.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6637be0e33e07145,sdg_target:13.1,sdg:13,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:66627194d6cf0aff,asdi:ASDI.10,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:66baed0056b25b65,policy_indicator:12.b.1,sdg_target:12.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:66c42cb44a153184,file:4f7c289bfa5e3248,policy_indicator:14.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:66e87843b207b9d8,sdg_target:2.c,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:66f4e745ce21740e,policy_indicator:4.1.2,sdg_target:4.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:67a785da788ac801,asdi:ASDI.41,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:682c6a10594d10f0,asdi:ASDI.113,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:6838e49757c03241,file:790921ce62f6e811,asdi:ASDI.36,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:683fe2ddb32d81a9,file:790921ce62f6e811,asdi:ASDI.51,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:68d473e0b468b791,sdg_target:4.b,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6912b367f31485d2,policy_indicator:14.7.1,sdg_target:14.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:693ba1aa729d1a33,sdg_target:2.1,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6a1da284be77a116,policy_indicator:14.4.1,sdg_target:14.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6a3e074173882017,asdi:ASDI.35,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6a414db4f9dee036,sdg_target:12.1,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6a803a31c419e58d,asdi:ASDI.109,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6aae14ab8f223657,file:4f7c289bfa5e3248,policy_indicator:1.5.4,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6adfa20f4c8c0e55,file:790921ce62f6e811,asdi:ASDI.75,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6b0b306fcbe9a4da,policy_indicator:13.2.1,sdg_target:13.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6b5dfdcb2445deb4,policy_indicator:16.1.1,sdg_target:16.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6b9337081513a909,policy_indicator:16.5.1,sdg_target:16.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6ba328a6385cde76,file:790921ce62f6e811,asdi:ASDI.78,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6c44e0f2b47ca1ef,sdg_target:17.19,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6c4e0816b9b150ca,file:4f7c289bfa5e3248,policy_indicator:3.3.5,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6ca766b488469a97,policy_indicator:3.d.1,sdg_target:3.d,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6d2f85e0bfc7887b,sdg_target:4.7,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6e7c626bbb50eea5,sdg_target:4.a,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6e9899b2e133a314,asdi:ASDI.112,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:6ed1a6fa6394aaa5,sdg_target:3.b,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6efef90ba91e1942,policy_indicator:3.5.1,sdg_target:3.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6fa10011b4161598,policy_indicator:10.7.3,sdg_target:10.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:6fdbc73de8dc9af9,sdg_target:17.5,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:70351da70262c21f,file:790921ce62f6e811,asdi:ASDI.7,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:703bf4e1dfae48a1,asdi:ASDI.90,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:704e3662a345fa95,sdg_target:11.6,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:707de7a13a65dcaa,track:part-i,file:8b6d8efa6fe0e638,CONTAINS_FILE,Public Policies Tables/20 Tabla B20.xlsx,"{""role"":""public_policy_input""}"
+edge:70d78e4a908a11df,asdi:ASDI.106,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:711fc5b64a03182c,asdi:ASDI.80,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:713897a573b140f4,file:4f7c289bfa5e3248,policy_indicator:5.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:71aaf3bff4a55e03,file:4f7c289bfa5e3248,policy_indicator:15.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:721940262c2ba767,file:790921ce62f6e811,asdi:ASDI.43,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7230bb649a348964,asdi:ASDI.13,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:723fcecb67549410,asdi:ASDI.136,dataset_type:ecosystems,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:724aed8fb551a88d,sdg_target:7.3,sdg:7,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:72dd3e6e4b3c2ac9,asdi:ASDI.49,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:732711644317f58a,file:790921ce62f6e811,asdi:ASDI.113,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7339ccbd839ba9c6,policy_indicator:3.c.1,sdg_target:3.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:733b25e0ae725481,track:part-i,file:6da5d9f0815db99d,CONTAINS_FILE,Public Policies Tables/27 Tabla B27.xlsx,"{""role"":""public_policy_input""}"
+edge:7383e6aa67c3ebfa,policy_indicator:10.4.2,sdg_target:10.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:73cb5b99da8dfb30,file:4f7c289bfa5e3248,policy_indicator:17.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:73d5d7168aebd00b,asdi:ASDI.74,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:743f07b7aa36fe44,sdg_target:11.7,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7470b8527a7aa058,policy_indicator:15.4.1,sdg_target:15.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:74adcba3bf51695c,sdg_target:14.a,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:74c2d15dad4041af,sdg_target:17.6,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:74e5a25aacbcf14d,file:4f7c289bfa5e3248,policy_indicator:15.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:74ff1c88dbf655ee,policy_indicator:6.6.1,sdg_target:6.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:752587c7e1fd77a7,policy_indicator:5.5.2,sdg_target:5.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7603ee2a112bcb81,policy_indicator:1.5.1,sdg_target:1.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:76694536a33c8b2e,asdi:ASDI.114,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:76a94b3c7d68eaf6,policy_indicator:3.9.2,sdg_target:3.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:76d146ffa96a78ee,asdi:ASDI.110,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:76db2290a543ef72,policy_indicator:6.3.1,sdg_target:6.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:774a15aca549f294,track:part-i,file:6de733b31eea39b5,CONTAINS_FILE,Public Policies Tables/38 Tabla B38.xlsx,"{""role"":""public_policy_input""}"
+edge:77698f581267c9c5,file:4f7c289bfa5e3248,policy_indicator:10.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:778cd2f148577e1e,file:4f7c289bfa5e3248,policy_indicator:15.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:77a662e962591b7f,file:790921ce62f6e811,asdi:ASDI.74,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:77fe63f2eba2becf,asdi:ASDI.97,sdg:11,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG11""}"
+edge:7807c8598d24ab70,asdi:ASDI.52,sdg:6,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG6""}"
+edge:782efd944d0e1e38,file:4f7c289bfa5e3248,policy_indicator:9.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7836f80d232deada,file:790921ce62f6e811,asdi:ASDI.39,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7857ecac55efa28f,policy_indicator:15.3.1,sdg_target:15.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:786014b0534da46c,sdg_target:8.10,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:787a347464370dee,file:790921ce62f6e811,asdi:ASDI.67,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:78d521e45d352e73,file:790921ce62f6e811,asdi:ASDI.105,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7919432ca96dd091,track:part-ii,track:part-i,DERIVES_FROM,,{}
+edge:795a005359b16f73,policy_indicator:4.a.1,sdg_target:4.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:79b52da88cbd3e2a,policy_indicator:4.4.1,sdg_target:4.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:79b7630f6951f549,file:4f7c289bfa5e3248,policy_indicator:9.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:79d7f77a209ad531,file:4f7c289bfa5e3248,policy_indicator:16.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7a1ff4d3804394f5,policy_indicator:5.2.1,sdg_target:5.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7a2487824526100a,asdi:ASDI.68,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7a52220f1ce215e7,policy_indicator:11.1.1,sdg_target:11.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7a69df9010efd9a1,policy_indicator:3.b.1,sdg_target:3.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7a6f5b3d632a92fe,asdi:ASDI.123,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:7ac61b6368e89489,policy_indicator:12.8.1,sdg_target:12.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7ad243fa2ede9e11,policy_indicator:3.1.2,sdg_target:3.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7b8ef02e834d60f0,file:4f7c289bfa5e3248,policy_indicator:10.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7c19ed7037004631,file:4f7c289bfa5e3248,policy_indicator:11.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7d43b4762547a26c,sdg_target:12.4,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7d6e5fcfb6c063e5,track:part-i,file:61a800c704646adb,CONTAINS_FILE,Public Policies Tables/10 Tabla B10.xlsx,"{""role"":""public_policy_input""}"
+edge:7d8e98428a0d45c7,policy_indicator:5.1.1,sdg_target:5.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7d907a96d15aadda,policy_indicator:3.3.1,sdg_target:3.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7dc110e0c4952dff,policy_indicator:12.7.1,sdg_target:12.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7e4ffc56758a45fe,sdg_target:10.4,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7e870b8dc199aea2,file:4f7c289bfa5e3248,policy_indicator:542066639f12a7e0,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7ee3403e130eb403,file:790921ce62f6e811,asdi:ASDI.30,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7eef5e158e30b7ae,policy_indicator:10.3.1,sdg_target:10.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7f00f3a22a80fb7f,policy_indicator:6.b.1,sdg_target:6.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7f3ec0986c3142a9,asdi:ASDI.7,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7f46bdcc1e68e74e,asdi:ASDI.43,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:7f53c65587412266,asdi:ASDI.23,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:7f664d29c55ec142,sdg_target:15.a,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:7ff17d0d9efd5cd6,file:4f7c289bfa5e3248,policy_indicator:16.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:804a8aaa001f8ac7,sdg_target:11.a,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:805a8f7ff05f3fec,asdi:ASDI.17,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8065c3e49d196965,asdi:ASDI.50,sdg:6,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG6""}"
+edge:806dc56d27c75a60,sdg_target:17.14,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:80bc5c6a2c49d854,asdi:ASDI.81,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:80cf727cc1df9633,asdi:ASDI.7,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:811ee1970e3fd3c3,asdi:ASDI.101,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:81305c142b0798a4,asdi:ASDI.31,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:816c4aa22005ea04,track:part-i,file:0537ebffead33076,CONTAINS_FILE,Public Policies Tables/21 Tabla B21.xlsx,"{""role"":""public_policy_input""}"
+edge:816f964d9cc9a294,policy_indicator:4.6.1,sdg_target:4.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:81814f35ca40622d,asdi:ASDI.56,sdg:2,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG2""}"
+edge:81d416e95f942f11,policy_indicator:5.5.1,sdg_target:5.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:82105edfd51c0756,asdi:ASDI.115,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:824eda638403fc9b,asdi:ASDI.91,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:82b981ec0e8099b4,asdi:ASDI.92,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:82bd9be47450bb56,policy_indicator:4.7.1,sdg_target:4.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:83865df04b04cfe4,file:4f7c289bfa5e3248,policy_indicator:5.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:83d6fec5a4a27885,policy_indicator:12.4.2,sdg_target:12.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:843b4a93ddf32107,track:part-i,file:4c32377b73ae5b12,CONTAINS_FILE,Google Colab Notebooks/README.md,"{""role"":""notebook_documentation""}"
+edge:8467490051b6fde2,track:part-i,file:4b8bd1f6b7363676,CONTAINS_FILE,Public Policies Tables/12 Tabla B12.xlsx,"{""role"":""public_policy_input""}"
+edge:846d7f8ac211a960,sdg_target:8.a,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:847bad72ef987e48,policy_indicator:6.a.1,sdg_target:6.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:849b2a3f7ec831e2,file:790921ce62f6e811,asdi:ASDI.32,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:84dcffe64f82e1b7,file:4f7c289bfa5e3248,policy_indicator:9.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:85296d1991ec1d83,file:790921ce62f6e811,asdi:ASDI.59,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:853d56137a982269,file:790921ce62f6e811,asdi:ASDI.130,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:85738d2e7da06b5e,file:4f7c289bfa5e3248,policy_indicator:5.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:85e5b321a4dd5b56,asdi:ASDI.58,dataset_type:agriculture,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:85f7baf4fc3e84ad,asdi:ASDI.132,sdg:9,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG9""}"
+edge:860a8dfe3a0047e8,file:4f7c289bfa5e3248,policy_indicator:3.d.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:862e54f70fbddee4,sdg_target:5.6,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:865ec8ee8478d37e,file:4f7c289bfa5e3248,policy_indicator:12.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:867a338edf844ed5,policy_indicator:10.4.1,sdg_target:10.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:86d567f4e1ea6539,policy_indicator:7.1.1,sdg_target:7.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:86e6242137455a67,asdi:ASDI.82,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:8724df86df461ff0,file:4f7c289bfa5e3248,policy_indicator:2.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8734c4607d4c6385,policy_indicator:11.a.1,sdg_target:11.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:873db58f766dd4ff,asdi:ASDI.2,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:876847729e84c3f2,asdi:ASDI.62,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:876d0b44e6085f99,asdi:ASDI.98,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:87a6e1ad01d8b2f9,asdi:ASDI.102,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:87b5f19636c3b963,file:790921ce62f6e811,asdi:ASDI.139,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:87c73185f054c7a3,asdi:ASDI.1,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:882e1ebbb160fa83,track:part-i,file:631157f58361541d,CONTAINS_FILE,ASDI Tables/GBI Data Set/GBI MX Dataset.csv,"{""role"":""asdi_input""}"
+edge:8883644a952497c5,sdg_target:12.8,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:888e57f3e1a60b65,sdg_target:7.1,sdg:7,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:88abc62e35083123,file:4f7c289bfa5e3248,policy_indicator:4.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:88c2c9b0d047e345,sdg_target:5.5,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:88c9c8c2ceaeea15,asdi:ASDI.3,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:88f96b466d4fbd61,sdg_target:15.7,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:892b51746a603f42,asdi:ASDI.86,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:8950278a70321fdc,asdi:ASDI.59,dataset_type:agriculture,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:898de4ce574c2808,file:790921ce62f6e811,asdi:ASDI.99,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8a385a57d5052011,file:4f7c289bfa5e3248,policy_indicator:14.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8a4fbe62cfb48efa,file:4f7c289bfa5e3248,policy_indicator:3.b.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8a5f52958c3245d1,file:4f7c289bfa5e3248,policy_indicator:296eda00455634fd,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8a68e225af8d9f5f,file:4f7c289bfa5e3248,policy_indicator:16.6.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8a77345282164fae,sdg_target:10.c,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8adbca522a77c25b,asdi:ASDI.100,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:8b29ebcd33714410,asdi:ASDI.12,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8b789b4f8d129c83,file:4f7c289bfa5e3248,policy_indicator:12.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8bce39da4248a092,asdi:ASDI.76,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:8be9b1614115b4bd,asdi:ASDI.118,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8bf44b1f2904e815,policy_indicator:12.4.1,sdg_target:12.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8c16c98f23d97b64,policy_indicator:14.1.1,sdg_target:14.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8c856202e8929360,sdg_target:8.1,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8cef49442197fa52,sdg_target:5.3,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8cfb4cf18fb7d576,file:4f7c289bfa5e3248,policy_indicator:4.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8d13007964529f43,asdi:ASDI.107,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:8d146629a4c0c2e2,file:4f7c289bfa5e3248,policy_indicator:12.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8d1a3e5f0fd9c2e8,asdi:ASDI.22,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:8d4760bc4285d1d3,file:4f7c289bfa5e3248,policy_indicator:17.19.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8d8d6c741d08385c,file:4f7c289bfa5e3248,policy_indicator:10.7.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8dfed29034929fc2,file:4f7c289bfa5e3248,policy_indicator:2.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8e174de484b5e1d3,policy_indicator:3.3.5,sdg_target:3.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8e370757071468a5,asdi:ASDI.14,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8e3a8cc9fa2dda3d,file:790921ce62f6e811,asdi:ASDI.40,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8e6dc4c3617ced9d,policy_indicator:13.1.1,sdg_target:13.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8e89c54831ea0cc9,policy_indicator:16.7.1,sdg_target:16.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8ea3574d740cceaa,file:4f7c289bfa5e3248,policy_indicator:15.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8ed0aede26ff93ae,file:790921ce62f6e811,asdi:ASDI.38,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8ef505575ccf072b,policy_indicator:2.3.1,sdg_target:2.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:8f13477c1adc1b80,asdi:ASDI.78,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:8f3ffd100f5825a4,asdi:ASDI.72,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:8f739c92907208cf,asdi:ASDI.4,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:8fa74389deb6c96c,asdi:ASDI.38,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:901519db6af98d85,asdi:ASDI.46,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:9078be9860fa5c80,track:part-i,file:a684a62bd77b35e8,CONTAINS_FILE,Public Policies Tables/14 Tabla B14.xlsx,"{""role"":""public_policy_input""}"
+edge:909cb0bdb996f0c5,asdi:ASDI.3,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:90a8a510342d1d9c,file:4f7c289bfa5e3248,policy_indicator:6.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:90baf38641b98987,policy_indicator:13.1.3,sdg_target:13.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:90c1615e8236b7f7,policy_indicator:2.2.3,sdg_target:2.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:90e285434dd3dc5e,asdi:ASDI.80,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:90e6be3bdbeb1861,policy_indicator:5.a.2,sdg_target:5.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:90ea76b24b2876f9,policy_indicator:1.5.3,sdg_target:1.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9142093798447fc5,file:790921ce62f6e811,asdi:ASDI.106,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:91667d1f73d1506b,file:4f7c289bfa5e3248,policy_indicator:13.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:919a476a298ac869,asdi:ASDI.4,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:91a22866d73c7dcd,asdi:ASDI.1,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:9212c03d1673906f,policy_indicator:4.2.2,sdg_target:4.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:92324bfe0ba0502a,policy_indicator:10.1.1,sdg_target:10.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:926b9e9d4526510c,sdg_target:4.6,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:92eb313686db23e3,asdi:ASDI.95,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:9339a7b6c75f0400,policy_indicator:1.4.2,sdg_target:1.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:93e31903c78ef1c1,policy_indicator:7.3.1,sdg_target:7.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:93e4917b8c9a10af,file:790921ce62f6e811,asdi:ASDI.58,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:941a06677f4a62dc,sdg_target:14.1,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:94a25555564f8069,file:4f7c289bfa5e3248,policy_indicator:3.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:94b659651bee8aed,file:4f7c289bfa5e3248,policy_indicator:11.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:94b690a8b9a65269,policy_indicator:11.4.1,sdg_target:11.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:94d6df1c287e94dd,sdg_target:7.a,sdg:7,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:94e80031859309b2,asdi:ASDI.30,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:94f5e9779377a628,sdg_target:14.c,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:950e056dd4b757e6,asdi:ASDI.36,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:953dbc1cd70e32c6,file:4f7c289bfa5e3248,policy_indicator:12.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9579abc3e5e51503,file:4f7c289bfa5e3248,policy_indicator:8.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:95bd9e9ba3b57a5b,asdi:ASDI.57,sdg:2,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG2""}"
+edge:95ff179520e6e87d,asdi:ASDI.87,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:960b5ed0fa7fa27b,file:790921ce62f6e811,asdi:ASDI.140,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:962b7ba20dfc3b32,file:790921ce62f6e811,asdi:ASDI.23,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:965dea08235df3db,policy_indicator:15.a.1,sdg_target:15.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:966d32c2b6f63a7e,track:part-i,file:ac4647c16f667042,CONTAINS_FILE,Public Policies Tables/39 Tabla B39.xlsx,"{""role"":""public_policy_input""}"
+edge:967b57d6e83b7d35,track:part-i,file:62809f708e7be9ed,CONTAINS_FILE,Public Policies Tables/04 Tabla B4.xlsx,"{""role"":""public_policy_input""}"
+edge:96e5f40bb1897de1,file:4f7c289bfa5e3248,policy_indicator:14.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:972b3ae78ff03491,asdi:ASDI.111,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:978f98c910881f68,file:790921ce62f6e811,asdi:ASDI.22,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:978ffa95c02992fe,file:790921ce62f6e811,asdi:ASDI.124,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:97d583aa4fc6e77f,file:790921ce62f6e811,asdi:ASDI.109,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:97f8621833af950e,file:790921ce62f6e811,asdi:ASDI.60,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:984b58db92a7e68f,sdg_target:10.5,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:988508fd0a90a94b,sdg_target:8.3,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9944a620b681691b,asdi:ASDI.119,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:99457eec5074e28b,file:790921ce62f6e811,asdi:ASDI.42,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:995b95d6da6d8d32,file:4f7c289bfa5e3248,policy_indicator:8.10.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:99616431004035b7,file:790921ce62f6e811,asdi:ASDI.29,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:99babaeb52a209f8,policy_indicator:17.17.1,sdg_target:17.17,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9a0cc03ea81c103c,policy_indicator:14.2.1,sdg_target:14.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9a472ff25d539746,file:4f7c289bfa5e3248,policy_indicator:16.10.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9a47d7b556d3af81,policy_indicator:17.14.1,sdg_target:17.14,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9abfe8da4d874278,policy_indicator:8.2.1,sdg_target:8.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9b221714320fbf97,asdi:ASDI.33,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:9b631510aefcdc08,sdg_target:2.5,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9c60a03e9a5dc1da,asdi:ASDI.108,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:9c8369d2f5b24fbb,track:part-i,file:05c87c4d2b3b3a89,CONTAINS_FILE,Public Policies Tables/08 Tabla B8.xlsx,"{""role"":""public_policy_input""}"
+edge:9d4eaae8e931749d,policy_indicator:15.4.2,sdg_target:15.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9d506d9f0ea1f3d9,file:4f7c289bfa5e3248,policy_indicator:1.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9d74fe31e072df64,file:4f7c289bfa5e3248,policy_indicator:9.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9d75d318fb7559fb,sdg_target:15.c,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9de1f45132b39876,file:790921ce62f6e811,asdi:ASDI.73,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:9e475439520f5fc3,policy_indicator:9.1.2,sdg_target:9.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9e9c62f03fdb8ef5,sdg_target:10.b,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9f420c47c41bee43,file:4f7c289bfa5e3248,policy_indicator:10.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9f5220a7c1063349,asdi:ASDI.24,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:9f6688def2a6acfc,file:4f7c289bfa5e3248,policy_indicator:3.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9f6d1aadc50b94c3,file:4f7c289bfa5e3248,policy_indicator:15.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:9f7b037a6e2593f3,asdi:ASDI.15,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:a016db9768a383f1,file:4f7c289bfa5e3248,policy_indicator:16.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a025006ea7a0234d,track:part-i,file:10f2f71e3cd56c8c,CONTAINS_FILE,Public Policies Tables/09 Tabla B9.xlsx,"{""role"":""public_policy_input""}"
+edge:a08ee7dc595aeca4,file:790921ce62f6e811,asdi:ASDI.27,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a0a68f045d438dab,file:4f7c289bfa5e3248,policy_indicator:6.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a0b7874e07a6b267,file:4f7c289bfa5e3248,policy_indicator:4.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a15dd80b757cdc76,asdi:ASDI.43,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:a18cff6e996b0e9d,policy_indicator:2.3.2,sdg_target:2.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a19ef46499dd77d0,asdi:ASDI.98,sdg:3,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG3""}"
+edge:a1ba0530b20e6e76,policy_indicator:9.5.1,sdg_target:9.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a1bba895e501eaf0,file:790921ce62f6e811,asdi:ASDI.48,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a1e476f0d1813392,track:part-i,file:745ad1eb4541f7c8,CONTAINS_FILE,Public Policies Tables/37 Tabla B37.xlsx,"{""role"":""public_policy_input""}"
+edge:a244495715bca2c4,policy_indicator:1.2.1,sdg_target:1.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a24489d7fe18bb21,file:4f7c289bfa5e3248,policy_indicator:1.5.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a2598419506e9f98,policy_indicator:12.6.1,sdg_target:12.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a295b29207df2f1f,asdi:ASDI.52,dataset_type:water,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a2e7f86607803e47,policy_indicator:17.18.1,sdg_target:17.18,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a2fee6d28fe39fb3,asdi:ASDI.97,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a3b7901b53c58b3a,track:part-i,file:53a4d17abad9ea10,CONTAINS_FILE,Public Policies Tables/17 Tabla B17.xlsx,"{""role"":""public_policy_input""}"
+edge:a3dd583b7c0e540e,file:790921ce62f6e811,asdi:ASDI.66,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a42866b7d5785a5b,file:4f7c289bfa5e3248,policy_indicator:16.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a430b6a994765d33,file:790921ce62f6e811,asdi:ASDI.21,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a4b67a5d1926e9a0,file:790921ce62f6e811,asdi:ASDI.35,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a4d4c1741e000191,asdi:ASDI.27,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a4d6edc0e6ecd485,file:4f7c289bfa5e3248,policy_indicator:5.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a51a177e7b59df0b,file:4f7c289bfa5e3248,policy_indicator:17.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a5fa98bf00b8e1d9,file:4f7c289bfa5e3248,policy_indicator:13.1.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a626d276a13d9dc5,file:4f7c289bfa5e3248,policy_indicator:15.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a62df5e51ee9a255,sdg_target:16.b,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a64661042980550e,sdg_target:1.1,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a64ba1011eb41288,file:4f7c289bfa5e3248,policy_indicator:2.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a673bc8c4ee462ab,file:4f7c289bfa5e3248,policy_indicator:11.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a6897c73d154830d,policy_indicator:15.9.1,sdg_target:15.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a745b8f76b172a52,asdi:ASDI.76,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a75083c6be092909,sdg_target:2.3,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a76a04f710a07d43,file:790921ce62f6e811,asdi:ASDI.138,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a78954ced4cdd9a6,track:part-i,file:20825fb79afc1706,CONTAINS_FILE,Public Policies Tables/11 Tabla B11.xlsx,"{""role"":""public_policy_input""}"
+edge:a7f2c466b7112ded,policy_indicator:17.6.1,sdg_target:17.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a8291cd4731809fb,file:4f7c289bfa5e3248,policy_indicator:9.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a84bed864f879884,sdg_target:12.3,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a864fcde0d129f0f,asdi:ASDI.25,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:a8703aea515e36e3,sdg_target:6.3,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a8d02c0abf027f83,file:4f7c289bfa5e3248,policy_indicator:14.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a913af3282b92629,asdi:ASDI.139,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:a944a9a4c083db3a,sdg_target:14.2,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a96fb43cc2778e34,track:part-i,file:c563e492683f41d5,CONTAINS_FILE,Public Policies Tables/README.md,"{""role"":""public_policy_input""}"
+edge:a9a42452bbe21126,file:4f7c289bfa5e3248,policy_indicator:15.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a9d95c05716a9ee0,sdg_target:11.3,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:a9dc95d15e2b4f4f,policy_indicator:8.4.2,sdg_target:8.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:aa54c69b714604df,sdg_target:10.2,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:aa9bf22c9e6600a8,file:4f7c289bfa5e3248,policy_indicator:3.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ab9baae689b24d66,track:part-i,file:8af70b29050f710e,CONTAINS_FILE,Google Colab Notebooks/NLP_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb,"{""role"":""exploratory_notebook""}"
+edge:abebaaae39915c97,policy_indicator:3.1.1,sdg_target:3.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ac38224e0cfad85e,sdg_target:3.8,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ac5fa60561d34829,policy_indicator:8.6.1,sdg_target:8.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ac88e9907ce6e033,sdg_target:1.a,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ac89032168dbb0c2,file:790921ce62f6e811,asdi:ASDI.137,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ac8b31cf7bb721dd,policy_indicator:5.3.2,sdg_target:5.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:acaeea364898d473,policy_indicator:17.8.1,sdg_target:17.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ace9f5e185f42329,file:4f7c289bfa5e3248,policy_indicator:17.12.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ad1851016d1ebb69,asdi:ASDI.116,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:ae976bd6f396b7f6,policy_indicator:12.2.2,sdg_target:12.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:af75b94f141ced70,file:790921ce62f6e811,asdi:ASDI.19,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:af94d54cc23804c1,policy_indicator:8.7.1,sdg_target:8.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:af99885b9cc01393,asdi:ASDI.137,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:afa0a45e2345d456,file:4f7c289bfa5e3248,policy_indicator:4.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:afa41b15d6e1731b,file:4f7c289bfa5e3248,policy_indicator:9.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:afab6b3b6619b445,policy_indicator:16.3.3,sdg_target:16.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:afafe686dcfd5b77,file:790921ce62f6e811,asdi:ASDI.103,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b1383cc500515a26,asdi:ASDI.56,dataset_type:agriculture,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b13e8c939969692d,sdg_target:2.a,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b16bc91d797a3cdb,sdg_target:14.3,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b1a0180e2be08236,asdi:ASDI.85,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:b1bd95a26359ff7b,asdi:ASDI.133,dataset_type:infrastructure,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b1ce5031029545c8,asdi:ASDI.21,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:b22fd860cc29e66b,file:4f7c289bfa5e3248,policy_indicator:7.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b26e0bac1356bf72,sdg_target:3.6,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b2b6f488725bf8f2,asdi:ASDI.86,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b3891aa88aeb2655,sdg_target:8.5,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b3a0c099bfdd443a,file:790921ce62f6e811,asdi:ASDI.89,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b3a65eaa131f4767,file:790921ce62f6e811,asdi:ASDI.62,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b3b484a39d1cb699,file:4f7c289bfa5e3248,policy_indicator:3.7.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b3bd0662d31ada5f,track:part-i,file:c7c2f2eeeb946b99,CONTAINS_FILE,Public Policies Tables/22 Tabla B22.xlsx,"{""role"":""public_policy_input""}"
+edge:b3db7089afc9d073,policy_indicator:16.1.2,sdg_target:16.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b42d1855e3ca35c3,file:4f7c289bfa5e3248,policy_indicator:9.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b4fc84780e9ba8f6,asdi:ASDI.114,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b4fca2df842ba9ab,file:4f7c289bfa5e3248,policy_indicator:3.9.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b507b52515e3fe4b,asdi:ASDI.6,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b5255f7da5bd4c22,file:790921ce62f6e811,asdi:ASDI.132,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b5444dce5322ac46,file:790921ce62f6e811,asdi:ASDI.5,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b568bce4d834a33d,file:4f7c289bfa5e3248,policy_indicator:17.18.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b5dee97206f995c8,track:part-i,file:1ff6ab7f7745ec54,CONTAINS_FILE,Public Policies Tables/44 Tabla B44.xlsx,"{""role"":""public_policy_input""}"
+edge:b5f1c4cded16690a,policy_indicator:3.4.1,sdg_target:3.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b6b5b0e247779aee,file:790921ce62f6e811,asdi:ASDI.12,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b6e2a1d7a612a7dd,sdg_target:10.7,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b70024ab78374100,policy_indicator:6.3.2,sdg_target:6.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b7825bd8d67323ec,policy_indicator:7.1.2,sdg_target:7.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b7bd35ad14cbce4e,sdg_target:12.6,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b7cb9862ac116112,policy_indicator:4.2.1,sdg_target:4.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b7d63756fdbf7e2d,policy_indicator:1.5.2,sdg_target:1.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b7eef94b28f6139c,file:790921ce62f6e811,asdi:ASDI.64,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b8216643af73ee77,asdi:ASDI.94,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b83972288549dfbf,asdi:ASDI.104,sdg:7,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG7""}"
+edge:b859132d969dedfb,file:4f7c289bfa5e3248,policy_indicator:17.14.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b8b4df104be51acf,file:4f7c289bfa5e3248,policy_indicator:17.19.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b8bc65878dff8593,asdi:ASDI.29,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:b8fa95bc234b89f4,track:part-i,file:fb3f618140ac2441,CONTAINS_FILE,Public Policies Tables/30 Tabla B30.xlsx,"{""role"":""public_policy_input""}"
+edge:b927fcd372aa8b70,asdi:ASDI.129,sdg:8,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG8""}"
+edge:b95bd41430ffec7a,track:part-i,file:1aa58330a74f3922,CONTAINS_FILE,Public Policies Tables/34 Tabla B34.xlsx,"{""role"":""public_policy_input""}"
+edge:b9bcd975cf91f6c0,file:4f7c289bfa5e3248,policy_indicator:14.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:b9f38ff7f5cc2cf0,asdi:ASDI.77,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:ba300d3d223eabc4,policy_indicator:15.7.1,sdg_target:15.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ba5149e08d619626,sdg_target:11.c,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ba7221acf145c5ea,track:part-i,file:79dbd2c32b533f97,CONTAINS_FILE,Public Policies Tables/16 Tabla B16.xlsx,"{""role"":""public_policy_input""}"
+edge:babbac5a53b9a048,file:790921ce62f6e811,asdi:ASDI.71,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:bae7b0242b34e989,policy_indicator:15.8.1,sdg_target:15.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bb5199dd44804215,policy_indicator:16.4.1,sdg_target:16.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bb8fd24af8c2c7a2,asdi:ASDI.135,dataset_type:ecosystems,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:bbab3e4002ce7558,asdi:ASDI.121,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:bbe467f7d8a63b25,file:4f7c289bfa5e3248,policy_indicator:1.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bbe8474084cd3bde,policy_indicator:6.4.1,sdg_target:6.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bbead0f8ffb63297,sdg_target:1.b,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bbfadeeddd70b83a,policy_indicator:1.4.1,sdg_target:1.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bc11efdf629bff5d,asdi:ASDI.120,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:bc8729442a2732e7,file:790921ce62f6e811,asdi:ASDI.50,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:bd2005c1af18401d,track:part-i,file:93e02806c48084dc,CONTAINS_FILE,Public Policies Tables/07 Tabla B7.xlsx,"{""role"":""public_policy_input""}"
+edge:bd32272ffd7949e3,asdi:ASDI.45,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:bd674021e7cf2d1e,asdi:ASDI.19,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:bd93821b6e357ce7,policy_indicator:14.c.1,sdg_target:14.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bdb7ea9f8d45abb1,sdg_target:1.4,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bdc39ca1b09f7215,sdg_target:15.6,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bdfe0c32345c90dc,file:4f7c289bfa5e3248,policy_indicator:3.9.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:be70d8d7c5e3c9a7,sdg_target:17.4,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bea423ff3b739f31,asdi:ASDI.18,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:bee5902123d39891,file:4f7c289bfa5e3248,policy_indicator:3.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:beeea87388c19027,file:4f7c289bfa5e3248,policy_indicator:9.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bf639fe7ed8f4bc5,sdg_target:17.16,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:bfb6467978c4f0c9,file:4f7c289bfa5e3248,policy_indicator:11.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c00ac4f14fd68b12,file:4f7c289bfa5e3248,policy_indicator:5.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c07b3d4dfc64b3a0,file:790921ce62f6e811,asdi:ASDI.9,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c0ab6c2f84e832ef,track:part-i,file:b918a9e0c7953d69,CONTAINS_FILE,Public Policies Tables/28 Tabla B28.xlsx,"{""role"":""public_policy_input""}"
+edge:c103f1d178cbba82,sdg_target:13.a,sdg:13,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c117dbc7692d3029,asdi:ASDI.64,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c1555f54b4ba2e55,policy_indicator:13.3.1,sdg_target:13.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c1c0781d6344ce7b,policy_indicator:13.2.2,sdg_target:13.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c1eb0771b10b093f,asdi:ASDI.46,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:c220b2c40fb9208d,file:4f7c289bfa5e3248,policy_indicator:13.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c226d68cf7a26130,file:4f7c289bfa5e3248,policy_indicator:1.2.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c22b903a74ee7788,asdi:ASDI.10,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c242f5b235b2591f,sdg_target:8.6,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c277309220f03f95,file:790921ce62f6e811,asdi:ASDI.136,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c28aaee5cc31c96d,file:4f7c289bfa5e3248,policy_indicator:5.6.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c29e86a8836522e6,file:4f7c289bfa5e3248,policy_indicator:12.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c2d08f36499a2605,file:4f7c289bfa5e3248,policy_indicator:8.8.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c2f31e3af1374e05,file:790921ce62f6e811,asdi:ASDI.87,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c3494d56b37c394c,asdi:ASDI.79,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c3603f63f8e2bae4,sdg_target:8.7,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c3dc71ce6c44d087,sdg_target:9.5,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c3ded25bc0533357,track:part-i,file:6c24e34113a2ee3e,CONTAINS_FILE,Public Policies Tables/02 Tabla B2.xlsx,"{""role"":""public_policy_input""}"
+edge:c424b09799d373bc,track:part-i,file:7fa984e1094f10ba,CONTAINS_FILE,Google Colab Notebooks/DS_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb,"{""role"":""exploratory_notebook""}"
+edge:c46125acedb91c7d,file:790921ce62f6e811,asdi:ASDI.134,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c4e230d2a7e48b1a,file:4f7c289bfa5e3248,policy_indicator:10.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c4fa2365f8cc0460,policy_indicator:17.2.1,sdg_target:17.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c508aa32df75364c,policy_indicator:4.3.1,sdg_target:4.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c52ec2a290eefe1f,policy_indicator:14.a.1,sdg_target:14.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c53ed1a30e077cdf,file:4f7c289bfa5e3248,policy_indicator:3.9.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c55973232f6a6e2d,file:790921ce62f6e811,asdi:ASDI.114,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c56cb8f7a70e1c8a,policy_indicator:17.18.2,sdg_target:17.18,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c612bde8c15273e2,asdi:ASDI.95,sdg:11,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG11""}"
+edge:c63c5143f1c44768,file:4f7c289bfa5e3248,policy_indicator:16.3.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c69c435417ce27dd,policy_indicator:12.1.1,sdg_target:12.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c6fb4ffb36a08495,policy_indicator:16.5.2,sdg_target:16.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c6fe247472fe769d,sdg_target:3.3,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c73c5620655f4ec2,asdi:ASDI.27,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:c74c7573981bf5f9,policy_indicator:12.2.1,sdg_target:12.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c81a9c9eadccfa83,asdi:ASDI.135,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:c88f4cc05aeec5e4,sdg_target:10.3,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c917c88f4fae984d,asdi:ASDI.102,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:c9748972e418bb8e,file:4f7c289bfa5e3248,policy_indicator:6.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c9a6832c2b688a64,file:4f7c289bfa5e3248,policy_indicator:16.1.3,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:c9fb4f7b6312de44,asdi:ASDI.39,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ca28c32f046dee49,file:4f7c289bfa5e3248,policy_indicator:17.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ca42eff8efec1cc4,policy_indicator:3.8.1,sdg_target:3.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ca8219db664e9083,policy_indicator:15.1.2,sdg_target:15.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ca82bccb39d78e52,policy_indicator:8.3.1,sdg_target:8.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:caa0e557672bf07f,file:4f7c289bfa5e3248,policy_indicator:3.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cacd90c9b20270f1,policy_indicator:11.3.2,sdg_target:11.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cb2973ec3e83f0b8,policy_indicator:3.7.2,sdg_target:3.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cb2b0fce747b0b52,asdi:ASDI.90,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:cb3659442ff78d29,asdi:ASDI.127,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:cb4357c8df508f6f,file:4f7c289bfa5e3248,policy_indicator:9.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cb52d533a4c02d9c,asdi:ASDI.124,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:cb65aa8f4a5cab18,asdi:ASDI.93,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:cbd7a7e4ccc9c980,file:790921ce62f6e811,asdi:ASDI.6,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:cbdd8c6178ddc068,file:4f7c289bfa5e3248,policy_indicator:5.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cbedc36b1fa9bcfe,policy_indicator:3.3.2,sdg_target:3.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cc19fcec5a0d5362,policy_indicator:7.b.1,sdg_target:7.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cc1bb38a5dacccef,sdg_target:5.a,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cc2d654238e1ad7f,policy_indicator:17.5.1,sdg_target:17.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cc5d04288f6213c5,policy_indicator:2.b.1,sdg_target:2.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cd3183cdf1cc1123,file:4f7c289bfa5e3248,policy_indicator:17.10.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cd4198c55552a80f,file:4f7c289bfa5e3248,policy_indicator:8.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cd5a0e4f103a47cc,sdg_target:17.11,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cdfd10b51f650a13,sdg_target:10.a,sdg:10,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ce66f117ab966cc9,asdi:ASDI.67,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ce7431a5cc5a24b0,file:4f7c289bfa5e3248,policy_indicator:1.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cef49c673823caea,sdg_target:3.9,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cf58c38f6711a81e,policy_indicator:17.11.1,sdg_target:17.11,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:cff42b92295118cd,file:790921ce62f6e811,asdi:ASDI.129,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d030657ec3b2946e,sdg_target:2.2,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d0c80e75f32eb148,policy_indicator:9.5.2,sdg_target:9.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d0d62fadb963e933,file:4f7c289bfa5e3248,policy_indicator:3.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d0f130f684ab4673,file:4f7c289bfa5e3248,policy_indicator:2.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d15030765a18de00,asdi:ASDI.126,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d1d421d871fe1585,file:4f7c289bfa5e3248,policy_indicator:2.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d1d9550e98b17cad,file:790921ce62f6e811,asdi:ASDI.15,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d1f520661f396412,policy_indicator:14.5.1,sdg_target:14.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d1f694f83bb5319b,policy_indicator:2.4.1,sdg_target:2.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d2231bdd677c5010,policy_indicator:13.a.1,sdg_target:13.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d29c4c90055d6334,policy_indicator:2.1.1,sdg_target:2.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d2b0564e045ba412,asdi:ASDI.129,dataset_type:socioeconomic,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d312971d145c1ad6,policy_indicator:8.10.2,sdg_target:8.10,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d33a6a2f6ef521d1,file:790921ce62f6e811,asdi:ASDI.117,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d3826ca044e251e8,asdi:ASDI.54,dataset_type:water,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d3b76d9ebdc3b8fd,sdg_target:15.1,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d47f5e1f8fc06fa1,file:4f7c289bfa5e3248,policy_indicator:1.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d4a1c1e37448d9a9,asdi:ASDI.21,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d4c9d7ba6207de17,sdg_target:11.2,sdg:11,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d4edc928a1b8d6bd,asdi:ASDI.54,sdg:6,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG6""}"
+edge:d4f01a3513b80f91,file:790921ce62f6e811,asdi:ASDI.119,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d4fc4af2903d4600,asdi:ASDI.115,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d50d8594a56957d4,file:4f7c289bfa5e3248,policy_indicator:6.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d51fcea044fe5deb,file:4f7c289bfa5e3248,policy_indicator:1.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d53e8a28e9f342c4,file:790921ce62f6e811,asdi:ASDI.85,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d54d25f131317c7d,file:4f7c289bfa5e3248,policy_indicator:10.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d631eef4c48eaf77,file:4f7c289bfa5e3248,policy_indicator:11.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d63cfc68a09d9641,track:part-i,file:892ec71da0c1601b,CONTAINS_FILE,Public Policies Tables/41 Tabla B41.xlsx,"{""role"":""public_policy_input""}"
+edge:d65483c35403622f,file:4f7c289bfa5e3248,policy_indicator:11.6.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d655d0a4106fe2ac,sdg_target:15.8,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d6c0c3add59fc84c,policy_indicator:14.3.1,sdg_target:14.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d6ca0d01c08c0cb6,file:4f7c289bfa5e3248,policy_indicator:16.1.4,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d6eb14c806fb592d,file:4f7c289bfa5e3248,policy_indicator:3.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d6ebfe705d8b0a49,file:790921ce62f6e811,asdi:ASDI.46,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d6f2ee163d194341,sdg_target:17.17,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d72d94e8f91cddc4,file:4f7c289bfa5e3248,policy_indicator:3.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d7b5f42733a0d9c6,file:4f7c289bfa5e3248,policy_indicator:16.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d7b8bb5d652ea6db,file:4f7c289bfa5e3248,policy_indicator:11.a.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d7ec87e30ebacac9,policy_indicator:2.a.2,sdg_target:2.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d812b2b203b5fe3d,policy_indicator:4.1.1,sdg_target:4.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d8224b60fcaff99a,asdi:ASDI.108,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:d82f6f9560eac890,file:4f7c289bfa5e3248,policy_indicator:11.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d8b8a1326deead4d,policy_indicator:15.b.1,sdg_target:15.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d8bba571a0d4718f,asdi:ASDI.126,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:d9269d9bae33393d,policy_indicator:3.9.3,sdg_target:3.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d92f4d0bf48fc2a7,asdi:ASDI.89,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:d96cd485cc5f3186,sdg_target:8.8,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:d9c149ed9510cdf2,file:4f7c289bfa5e3248,policy_indicator:4.5.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:da1edaf8a27a01fa,asdi:ASDI.134,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:da58d8df91d3aba1,asdi:ASDI.122,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:da8c5e78b4cc21c1,policy_indicator:17.10.1,sdg_target:17.10,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:db3c6efaa2535a3a,track:part-i,file:19e95654b27e9ac8,CONTAINS_FILE,Public Policies Tables/23 Tabla B23.xlsx,"{""role"":""public_policy_input""}"
+edge:db51cbaba07992ed,asdi:ASDI.92,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:db73bacd97f41de9,file:4f7c289bfa5e3248,policy_indicator:16.3.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:db7a34bda62e3a3d,file:790921ce62f6e811,asdi:ASDI.107,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:dbce3a04a1220ed6,file:4f7c289bfa5e3248,policy_indicator:9.1.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:dbd21549efaea47a,file:790921ce62f6e811,asdi:ASDI.115,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:dc1f1abc30ee1ad6,asdi:ASDI.34,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:dc6a2512cb7b4b60,asdi:ASDI.99,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:dc805b62fceb30a3,sdg_target:15.5,sdg:15,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:dc8c234e4b59c86f,policy_indicator:3.a.1,sdg_target:3.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:dd1dd56f1c9798bd,file:790921ce62f6e811,asdi:ASDI.110,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:dd31c265e1b73b2f,asdi:ASDI.128,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:dd5995147a47377e,file:4f7c289bfa5e3248,policy_indicator:16.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:dd85a896442071ba,file:4f7c289bfa5e3248,policy_indicator:2.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ddacdfe5df276289,policy_indicator:25a2aa9f86d5a414,sdg_target:4.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ddca934bd19c7517,policy_indicator:3.2.2,sdg_target:3.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:de12b5ec26bace17,asdi:ASDI.61,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:de46bbb7eb0e87bd,sdg_target:17.12,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:de55456053933e71,file:4f7c289bfa5e3248,policy_indicator:13.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:deaa1925ef716df8,file:4f7c289bfa5e3248,policy_indicator:10.1.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:debdd835634bee9b,file:4f7c289bfa5e3248,policy_indicator:11.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:df2607e1f01cfe19,policy_indicator:3.6.1,sdg_target:3.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:df37a497902c8238,file:790921ce62f6e811,asdi:ASDI.68,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:df702f2de9297354,file:790921ce62f6e811,asdi:ASDI.133,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:df95c6266a6ff0b9,asdi:ASDI.133,sdg:9,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG9""}"
+edge:dfe4a4c5fe6b1d3d,policy_indicator:17.16.1,sdg_target:17.16,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e016f1da852553bb,policy_indicator:5.4.1,sdg_target:5.4,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e04dcc67e47606a6,policy_indicator:3.9.1,sdg_target:3.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e0a37f6633d31a1b,file:4f7c289bfa5e3248,policy_indicator:5.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e0d944852e7898ec,file:4f7c289bfa5e3248,policy_indicator:12.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e0f265b948a3baa8,sdg_target:1.3,sdg:1,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e100205cd33cefdf,asdi:ASDI.16,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e13247d303f65fa4,policy_indicator:10.b.1,sdg_target:10.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e14c7d554379ffe2,asdi:ASDI.70,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:e14d7a8103dcfc9c,asdi:ASDI.138,dataset_type:biodiversity,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e150e601d48c668d,track:part-i,file:8c5e61c3318be0eb,CONTAINS_FILE,Public Policies Tables/25 Tabla B25.xlsx,"{""role"":""public_policy_input""}"
+edge:e17dea0673e8e02c,sdg_target:16.10,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e197520d14d400ac,file:790921ce62f6e811,asdi:ASDI.98,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e1fb5923e5b28a5e,policy_indicator:11.b.2,sdg_target:11.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e2057bd4f4ea7a94,policy_indicator:8.a.1,sdg_target:8.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e208dfc17e42b8eb,file:790921ce62f6e811,asdi:ASDI.86,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e2203efc92e4fa31,asdi:ASDI.119,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:e2329ec09a6778de,policy_indicator:14.6.1,sdg_target:14.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e24473b7dac39c6c,file:4f7c289bfa5e3248,policy_indicator:8.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e29e053076fbe535,sdg_target:17.9,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e3277e53881c8081,file:4f7c289bfa5e3248,policy_indicator:1.a.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e329ac4ea060f4e8,policy_indicator:3.7.1,sdg_target:3.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e330b612d16d8e97,track:part-i,file:a84e2c5c4f0648fb,CONTAINS_FILE,Public Policies Tables/49 Tabla 21 .xlsx,"{""role"":""public_policy_input""}"
+edge:e35445e86c450d4b,asdi:ASDI.34,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e36bb24edabd3a2f,policy_indicator:13.1.2,sdg_target:13.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e38d94e863cb8ba2,sdg_target:17.10,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e3d49043998a4634,file:790921ce62f6e811,asdi:ASDI.84,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e3dc516cac077e20,file:4f7c289bfa5e3248,policy_indicator:1.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e44f4615f27c946d,file:4f7c289bfa5e3248,policy_indicator:4.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e45e07f1c7862a6a,asdi:ASDI.19,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:e48f30815b0ade79,sdg_target:17.18,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e4a02e1a42fdaefd,file:4f7c289bfa5e3248,policy_indicator:17.18.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e4f5144638802b15,asdi:ASDI.118,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:e539f70441d85ab5,sdg_target:9.4,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e59c42206f33cbd7,asdi:ASDI.125,dataset_type:oceans,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e59e0980c58b0551,file:4f7c289bfa5e3248,policy_indicator:14.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e609210717d6a5e9,policy_indicator:12.5.1,sdg_target:12.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e6369a66ae4fd2c0,file:790921ce62f6e811,asdi:ASDI.131,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e66172e683b60c3c,file:4f7c289bfa5e3248,policy_indicator:17.13.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e69cbff58552f683,policy_indicator:16.2.2,sdg_target:16.2,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e6e85ab62b2637a3,file:4f7c289bfa5e3248,policy_indicator:10.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e76cdff220aa5ea3,asdi:ASDI.18,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e77f08ab3053150f,asdi:ASDI.2,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:e7db9d52f95ca6b8,file:4f7c289bfa5e3248,policy_indicator:12.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e7dcfa367d3cae72,policy_indicator:14.b.1,sdg_target:14.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e84303ac0c1da98f,asdi:ASDI.106,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:e85aab1125cc4bed,policy_indicator:11.b.1,sdg_target:11.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e89708d6d110d1a9,sdg_target:16.7,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e8e52f23fb8706ef,policy_indicator:10.c.1,sdg_target:10.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e97faaa1e418c34c,file:4f7c289bfa5e3248,policy_indicator:12.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e99be2bb6211b53c,policy_indicator:11.7.2,sdg_target:11.7,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:e9b579c8158ce0f8,asdi:ASDI.32,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ea10e692e9bf8a8a,asdi:ASDI.48,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ea450e0a64d9de7d,track:part-i,file:0681dab7b4ed51f4,CONTAINS_FILE,ASDI Tables/01 ASDI Data Sets Dictionary.xlsx,"{""role"":""asdi_input""}"
+edge:ea46e561bc3e406e,asdi:ASDI.71,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ea5b33865d4dc3de,asdi:ASDI.116,dataset_type:disaster response,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:eaf53b57227a4cd6,policy_indicator:9.1.1,sdg_target:9.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:eafd859a3dff201d,file:4f7c289bfa5e3248,policy_indicator:7.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:eb04e5e398a1188b,asdi:ASDI.117,sdg:14,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG14""}"
+edge:eb682f860a5f39ce,policy_indicator:17.9.1,sdg_target:17.9,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:eb735cf5770ac411,sdg_target:13.3,sdg:13,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:eb961651f73f125d,asdi:ASDI.99,sdg:11,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG11""}"
+edge:ebcc0dea6bd90233,file:4f7c289bfa5e3248,policy_indicator:8.4.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ec02fa75ec9f6f14,asdi:ASDI.5,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ec191166ba052c3f,sdg_target:6.a,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ec2fad7785d38bb3,file:790921ce62f6e811,asdi:ASDI.104,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ec3b80030cceb33e,asdi:ASDI.60,dataset_type:satellite imagery,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ecacd4437366b5e2,asdi:ASDI.79,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:ecbe73398957f331,asdi:ASDI.100,dataset_type:air quality,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ecea9a363c9a815e,asdi:ASDI.36,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ed09468ad450fec7,asdi:ASDI.110,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ed2f9744acce1358,asdi:ASDI.6,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ed44cecda1225431,policy_indicator:8.8.2,sdg_target:8.8,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ed81fbca87e34784,asdi:ASDI.104,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ed9708b771866820,file:790921ce62f6e811,asdi:ASDI.25,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:eddfbf51bbb5652b,asdi:ASDI.37,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ee02106600de8185,sdg_target:17.3,sdg:17,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ee023aa8122b3a2a,asdi:ASDI.38,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:ef5ab48ce935986f,sdg_target:5.1,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:efc8952afaf3ce86,file:790921ce62f6e811,asdi:ASDI.101,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:eff4efc605796173,file:4f7c289bfa5e3248,policy_indicator:2.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f0330836e6c9fe76,file:4f7c289bfa5e3248,policy_indicator:16.8.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f035609dd67cbe52,sdg_target:16.6,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f07595be3c6d0988,sdg_target:8.2,sdg:8,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f08a561df97bd774,sdg_target:6.1,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f08f99c52593a9f9,asdi:ASDI.128,sdg:8,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG8""}"
+edge:f0ffb811fb353894,policy_indicator:5.6.2,sdg_target:5.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f14a7a661123be64,policy_indicator:17.19.1,sdg_target:17.19,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f1673d95df9fedaf,policy_indicator:6.5.1,sdg_target:6.5,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f180f01abd2794a4,asdi:ASDI.131,dataset_type:socioeconomic,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f1a4faeb57abb252,file:4f7c289bfa5e3248,policy_indicator:3.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f1ea075c5bff0d9f,policy_indicator:9.a.1,sdg_target:9.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f2126b01788276d4,track:part-i,file:9daa10bf10ef007a,CONTAINS_FILE,Public Policies Tables/15 Tabla B15.xlsx,"{""role"":""public_policy_input""}"
+edge:f271aaa438cf3140,file:790921ce62f6e811,asdi:ASDI.16,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f292ac6a2fa6d961,file:790921ce62f6e811,asdi:ASDI.44,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f2a0c6e4434946bf,asdi:ASDI.41,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:f2acbceede3a336c,file:790921ce62f6e811,asdi:ASDI.18,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f2dd92d6bdb0170d,asdi:ASDI.50,dataset_type:climate,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f326c6658acfa4eb,sdg_target:9.b,sdg:9,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f34d8c2c2a2c965b,track:part-i,file:10f9c0932fbfb6ec,CONTAINS_FILE,Public Policies Tables/36 Tabla B36.xlsx,"{""role"":""public_policy_input""}"
+edge:f3bae79405d959ee,asdi:ASDI.49,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:f3da07e4dca66a25,asdi:ASDI.11,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f44969412980f3e5,asdi:ASDI.16,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:f4798130b05886b8,policy_indicator:12.a.1,sdg_target:12.a,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f4b1e4053f6ad7ca,file:4f7c289bfa5e3248,policy_indicator:11.b.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f4c1fde95265a19f,asdi:ASDI.53,sdg:6,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG6""}"
+edge:f4d3bd53463d1ae2,file:4f7c289bfa5e3248,policy_indicator:9.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f522e19a5dd13d72,policy_indicator:12.c.1,sdg_target:12.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f5243229530d96fb,asdi:ASDI.112,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:f52b2976f4574c30,file:4f7c289bfa5e3248,policy_indicator:16.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f5379b815f360086,file:4f7c289bfa5e3248,policy_indicator:1.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f546f57b183e0dd5,file:4f7c289bfa5e3248,policy_indicator:17.2.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f598e80da7504c19,file:790921ce62f6e811,asdi:ASDI.14,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f5a135b013cbea20,policy_indicator:11.6.2,sdg_target:11.6,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f6dd24f4110ba036,file:790921ce62f6e811,asdi:ASDI.91,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f701613a051c2672,file:790921ce62f6e811,asdi:ASDI.20,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f701e9cf23322f7e,policy_indicator:16.3.2,sdg_target:16.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f75bfb545e933baf,file:4f7c289bfa5e3248,policy_indicator:12.b.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f76a842ae602b20c,track:part-i,file:510969e9e6e130c3,CONTAINS_FILE,Public Policies Tables/06 Tabla B6.xlsx,"{""role"":""public_policy_input""}"
+edge:f782d7c05b5c3667,sdg_target:6.5,sdg:6,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f7ccb1ac1d33de39,asdi:ASDI.91,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:f82fdd24452c2316,policy_indicator:3.b.3,sdg_target:3.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f87f72d6a41ac0ae,asdi:ASDI.84,sdg:17,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG17""}"
+edge:f88ee3c4261dda87,asdi:ASDI.136,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:f8a87c5b8ea49b28,asdi:ASDI.5,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f8e4ef87e84af979,policy_indicator:5.b.1,sdg_target:5.b,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f9042f454d16f26b,sdg_target:5.b,sdg:5,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:f93ca5804d641fd0,file:790921ce62f6e811,asdi:ASDI.24,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:f94ce3df77f55944,asdi:ASDI.96,sdg:3,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG3""}"
+edge:f99e8de69477ae20,asdi:ASDI.55,sdg:2,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG2""}"
+edge:f9fbaad3a044eb0e,file:790921ce62f6e811,asdi:ASDI.65,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:fa269a05972e47d3,sdg_target:14.b,sdg:14,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fab94d1baa6c6483,asdi:ASDI.87,dataset_type:elevation,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:faf1be36f4826f98,file:4f7c289bfa5e3248,policy_indicator:12.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fb19520258928528,file:4f7c289bfa5e3248,policy_indicator:12.6.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fb4e17ca4cb8fe84,policy_indicator:2.1.2,sdg_target:2.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fb606837a82048bb,file:4f7c289bfa5e3248,policy_indicator:5.a.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fb62d00ce8199719,asdi:ASDI.47,sdg:13,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG13""}"
+edge:fb7c4375ce37edf4,policy_indicator:17.15.1,sdg_target:17.15,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fbb692a18ad6f53a,policy_indicator:1.1.1,sdg_target:1.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fbe6b653cb36b351,file:4f7c289bfa5e3248,policy_indicator:16.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fc2d870072e734ba,policy_indicator:16.1.3,sdg_target:16.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fc37c682fb7cdcbd,asdi:ASDI.58,sdg:2,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG2""}"
+edge:fc67f6df089db667,file:4f7c289bfa5e3248,policy_indicator:6.4.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fc939023f217127c,sdg_target:12.c,sdg:12,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fca7eae8e738ede5,sdg_target:3.5,sdg:3,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fcf3050e5ba23478,policy_indicator:12.3.1,sdg_target:12.3,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fcff8a328ff56992,sdg_target:4.3,sdg:4,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fd3c71bcb797c9ae,file:790921ce62f6e811,asdi:ASDI.100,DECLARES_ASDI_DATASET,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:fd4e05af71581a8f,asdi:ASDI.105,dataset_type:energy,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:fd9b449037764891,policy_indicator:9.c.1,sdg_target:9.c,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fdd73b341c024802,file:4f7c289bfa5e3248,policy_indicator:14.7.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fe06fca667f9dbf3,policy_indicator:17.1.2,sdg_target:17.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fe40a374ced3991e,file:4f7c289bfa5e3248,policy_indicator:15.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fe81f9131b56b444,sdg_target:2.4,sdg:2,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fe8b3d637782aed2,file:4f7c289bfa5e3248,policy_indicator:4.3.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fe8c5d68e50ab126,track:part-i,file:17c362a320d6c7da,CONTAINS_FILE,Public Policies Tables/42 Tabla B42.xlsx,"{""role"":""public_policy_input""}"
+edge:fe908583f42609ae,policy_indicator:16.1.4,sdg_target:16.1,MEASURES_TARGET,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fea97109409f9e5d,asdi:ASDI.88,sdg:15,SUPPORTS_GOAL,ASDI Tables/02 ASDI Data Set Dictionary.csv,"{""sdg_id"":""SDG15""}"
+edge:feb00bebb0aaac67,track:part-i,file:3e65c5f40e9536f8,CONTAINS_FILE,Public Policies Tables/13 Tabla B13.xlsx,"{""role"":""public_policy_input""}"
+edge:fec637a8723c2821,sdg_target:16.9,sdg:16,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:fef54decc900ee39,file:4f7c289bfa5e3248,policy_indicator:11.7.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ff8c34186901c5e3,sdg_target:13.2,sdg:13,BELONGS_TO_GOAL,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ff8ec2b66f7e5838,file:4f7c289bfa5e3248,policy_indicator:2.c.1,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}
+edge:ff9c487d25dd1324,asdi:ASDI.26,dataset_type:weather,HAS_DATASET_TYPE,ASDI Tables/02 ASDI Data Set Dictionary.csv,{}
+edge:ffd053e721da29d4,file:4f7c289bfa5e3248,policy_indicator:8.5.2,DECLARES_POLICY_INDICATOR,Public Policies Tables/01 Tabla B1.csv,{}

@@ -41,7 +41,7 @@ The repository is organized around these operational questions:
 
 Part I status: **curated thesis archive, partial reproducibility**.
 
-Part II status: **reproducible scholarship scaffold, not yet a finished pipeline**.
+Part II status: **implemented committed-input reproducible graph slice; DOI and external source recovery remain publication tasks**.
 
 What is already present:
 
@@ -60,7 +60,7 @@ What remains intentionally flagged:
 
 ## Part II - Fully Reproducible Scholarship Track
 
-The second part does not claim that the original thesis archive is already fully reproducible. It defines the work required to make a later scholarly release reproducible from source data to graph outputs.
+The second part does not claim that the original thesis archive is already fully reproducible. It implements a deterministic graph slice from committed source data to generated outputs and marks remaining DOI/source-recovery work as publication tasks.
 
 See [`reproducible-scholarship/`](reproducible-scholarship/) for:
 
@@ -69,6 +69,7 @@ See [`reproducible-scholarship/`](reproducible-scholarship/) for:
 - the dataset and graph-schema requirements;
 - the run-manifest template;
 - the release checklist for DOI-ready publication.
+- generated graph, table, and manifest outputs.
 
 ## Quick Start
 

@@ -1,0 +1,424 @@
+{
+  "counts": {
+    "asdi_datasets": 141,
+    "graph_edges": 1156,
+    "graph_nodes": 655,
+    "input_files": 61,
+    "policy_indicators": 251
+  },
+  "created_at_utc": "deterministic-build",
+  "generator": "scripts/build_reproducible_scholarship.py",
+  "inputs": [
+    {
+      "path": "ASDI Tables/01 ASDI Data Sets Dictionary.xlsx",
+      "role": "asdi_input",
+      "sha256": "b6374b685153a8ee49a68c3c89652d8139df2f0d79b5856e693c4941d0fa7808",
+      "size_bytes": "30559"
+    },
+    {
+      "path": "ASDI Tables/02 ASDI Data Set Dictionary.csv",
+      "role": "asdi_input",
+      "sha256": "01cde968e0ac55c481c4458423436937acd9f42dca3302d846481df3604b8b85",
+      "size_bytes": "9405"
+    },
+    {
+      "path": "ASDI Tables/GBI Data Set/GBI MX Dataset.csv",
+      "role": "asdi_input",
+      "sha256": "844f721486709fd0fc47f63ebfa8945b14503ee57155977cfcac12813425339c",
+      "size_bytes": "1023676"
+    },
+    {
+      "path": "ASDI Tables/README.md",
+      "role": "asdi_input",
+      "sha256": "0fff39510b86ddc8b8afbd75fa78b5a6bc5d1195e9dec8d85d5310d12f817328",
+      "size_bytes": "722"
+    },
+    {
+      "path": "Public Policies Tables/01 Tabla B1.csv",
+      "role": "public_policy_input",
+      "sha256": "46897fb643693e7c9224e875791e9f8cd1702d4575f308e7288817ce3d87d8e2",
+      "size_bytes": "86247"
+    },
+    {
+      "path": "Public Policies Tables/01 Tabla B1.xlsx",
+      "role": "public_policy_input",
+      "sha256": "9edc21c279c26a137d8425547c7d0bf7480e00bc761c850cc393f2787ba1ddf8",
+      "size_bytes": "45018"
+    },
+    {
+      "path": "Public Policies Tables/02 Tabla B2.xlsx",
+      "role": "public_policy_input",
+      "sha256": "2e60e94ff46d821b0968f44e038b49de07442975e6381ee5f9502e29498d1f58",
+      "size_bytes": "10240"
+    },
+    {
+      "path": "Public Policies Tables/03 Tabla B3.xlsx",
+      "role": "public_policy_input",
+      "sha256": "8fbcd62168ef716beef5b3a890272db829319ae2f77428f3010574f8b5ad89b8",
+      "size_bytes": "10889"
+    },
+    {
+      "path": "Public Policies Tables/04 Tabla B4.xlsx",
+      "role": "public_policy_input",
+      "sha256": "3dee458ddf3b507299b85b5340dc7135c73365de80f122494831f2b4865cf5c3",
+      "size_bytes": "15800"
+    },
+    {
+      "path": "Public Policies Tables/05 Tabla B5.xlsx",
+      "role": "public_policy_input",
+      "sha256": "eb229a9885bcf95e4a41937015888c0ef7aa25bcf3fb7ebb32d62ee4d61add58",
+      "size_bytes": "25347"
+    },
+    {
+      "path": "Public Policies Tables/06 Tabla B6.xlsx",
+      "role": "public_policy_input",
+      "sha256": "05a0745888c6a053e91b5938e3ad7d0958a2a27a619bbfc97b2093f3d0147ac4",
+      "size_bytes": "20638"
+    },
+    {
+      "path": "Public Policies Tables/07 Tabla B7.xlsx",
+      "role": "public_policy_input",
+      "sha256": "a9dc294b11074a1832826f5fbd7e0e4a06b2ac0ac661b56c7f410c211d04ae8e",
+      "size_bytes": "9469"
+    },
+    {
+      "path": "Public Policies Tables/08 Tabla B8.xlsx",
+      "role": "public_policy_input",
+      "sha256": "d90f7c390c8109110ea3ee6ceca9049fd6dbb5560984e00f712f55c6c4b19694",
+      "size_bytes": "10354"
+    },
+    {
+      "path": "Public Policies Tables/09 Tabla B9.xlsx",
+      "role": "public_policy_input",
+      "sha256": "b136f99f9190c83ba5aead7db68254fa04278410c2cbaf977491445e1ec3e899",
+      "size_bytes": "14098"
+    },
+    {
+      "path": "Public Policies Tables/10 Tabla B10.xlsx",
+      "role": "public_policy_input",
+      "sha256": "849d3ed10fa0cabe6dbf9613b1ce4ee520dd3a644c6c8cea178a2c0889b03c3f",
+      "size_bytes": "9354"
+    },
+    {
+      "path": "Public Policies Tables/11 Tabla B11.xlsx",
+      "role": "public_policy_input",
+      "sha256": "ce7dd8b62e8af28e9268f23cff32666945c0ad25d5bcf5d6b75e5ef43808d626",
+      "size_bytes": "10599"
+    },
+    {
+      "path": "Public Policies Tables/12 Tabla B12.xlsx",
+      "role": "public_policy_input",
+      "sha256": "18997ea807b250a809159b745002984dbb728b38617bb2905905ced8f4738f54",
+      "size_bytes": "12073"
+    },
+    {
+      "path": "Public Policies Tables/13 Tabla B13.xlsx",
+      "role": "public_policy_input",
+      "sha256": "bc07d0e8922d80df7e4ae9456feb3c35ee43d0f39fb23918c3000926f862a861",
+      "size_bytes": "9244"
+    },
+    {
+      "path": "Public Policies Tables/14 Tabla B14.xlsx",
+      "role": "public_policy_input",
+      "sha256": "b440b5470381af7a25de91a0472a734bdf1d5d5ae79f10b53e5dae74f31c9039",
+      "size_bytes": "9577"
+    },
+    {
+      "path": "Public Policies Tables/15 Tabla B15.xlsx",
+      "role": "public_policy_input",
+      "sha256": "dcfeb525b0906c9347277e9150d1dcad7d4f471112246b9bdc7f416bb8f79b9d",
+      "size_bytes": "10790"
+    },
+    {
+      "path": "Public Policies Tables/16 Tabla B16.xlsx",
+      "role": "public_policy_input",
+      "sha256": "141d530844ae1b822083fdc7aec211bdb05ead1cb59c36e9bb1eb8b792b27759",
+      "size_bytes": "12569"
+    },
+    {
+      "path": "Public Policies Tables/17 Tabla B17.xlsx",
+      "role": "public_policy_input",
+      "sha256": "e7988c5af14f8a417aee435c0902bf83d61190ddd733b19145595c42ffe22bf1",
+      "size_bytes": "9252"
+    },
+    {
+      "path": "Public Policies Tables/18 Tabla B18.xlsx",
+      "role": "public_policy_input",
+      "sha256": "e630b46b77774ff444f03bb0337977cfb4e682195be4269d0e4496b91cc0d077",
+      "size_bytes": "11082"
+    },
+    {
+      "path": "Public Policies Tables/19 Tabla B19.xlsx",
+      "role": "public_policy_input",
+      "sha256": "57a4db8e652e1c7c9bc5ffb1971f0b3e1eee99e9796924ecb1333e776c3bd82f",
+      "size_bytes": "9184"
+    },
+    {
+      "path": "Public Policies Tables/20 Tabla B20.xlsx",
+      "role": "public_policy_input",
+      "sha256": "78a72ca6ed8baa818bce8202914371b608ea0ca39e4883a9a27bdf8d0a7e69dd",
+      "size_bytes": "9505"
+    },
+    {
+      "path": "Public Policies Tables/21 Tabla B21.xlsx",
+      "role": "public_policy_input",
+      "sha256": "6b14eea4865291aab32bfc7db50e0d462f6c41ee3e6f37b56a1dc15c412c801f",
+      "size_bytes": "9989"
+    },
+    {
+      "path": "Public Policies Tables/22 Tabla B22.xlsx",
+      "role": "public_policy_input",
+      "sha256": "2f7a11b06c74f049e7b55e3b1a82b662fa6d76e9606480426c321f4665dd4e31",
+      "size_bytes": "9346"
+    },
+    {
+      "path": "Public Policies Tables/23 Tabla B23.xlsx",
+      "role": "public_policy_input",
+      "sha256": "c0dcd4383fa8a00fddba5f5e942c8e36b62262f709d86aedc6767ca0659a66dc",
+      "size_bytes": "11570"
+    },
+    {
+      "path": "Public Policies Tables/24 Tabla B24.xlsx",
+      "role": "public_policy_input",
+      "sha256": "4115a301a637933f37a85d1af746cc9026a0fa8d289a2d09c3dcaeeac1bdf154",
+      "size_bytes": "12362"
+    },
+    {
+      "path": "Public Policies Tables/25 Tabla B25.xlsx",
+      "role": "public_policy_input",
+      "sha256": "89e4e8132d305a0b2dcc75776dd21ff5f38d6f99978548c6ba5d9c77a3a6dab9",
+      "size_bytes": "10998"
+    },
+    {
+      "path": "Public Policies Tables/26 Tabla B26.xlsx",
+      "role": "public_policy_input",
+      "sha256": "1981c4240e66e9bc4ba2d28448c22d917472f8d4968d05fc77f03b0f7ea23b97",
+      "size_bytes": "17547"
+    },
+    {
+      "path": "Public Policies Tables/27 Tabla B27.xlsx",
+      "role": "public_policy_input",
+      "sha256": "3319937c62840c9cebed637c83ad138051b89b9fb6c4db716d4db1a6c8b767b0",
+      "size_bytes": "9374"
+    },
+    {
+      "path": "Public Policies Tables/28 Tabla B28.xlsx",
+      "role": "public_policy_input",
+      "sha256": "fa72550ab24bb9dcedf8c5ba8eaf52e12bec4e886026f2ecd5667fb10660f0dd",
+      "size_bytes": "11375"
+    },
+    {
+      "path": "Public Policies Tables/29 Tabla B29.xlsx",
+      "role": "public_policy_input",
+      "sha256": "c96e5a829e8b61fd49867cb045be2bccc032222d34e953b2bcb3c5869de6c749",
+      "size_bytes": "14637"
+    },
+    {
+      "path": "Public Policies Tables/30 Tabla B30.xlsx",
+      "role": "public_policy_input",
+      "sha256": "1abb312d595c452538352b278550922f0b7bd40cfeb014c5581ced0e1812deb4",
+      "size_bytes": "9234"
+    },
+    {
+      "path": "Public Policies Tables/31 Tabla B31.xlsx",
+      "role": "public_policy_input",
+      "sha256": "52b05fc3a3e7702c7c4ab573d91156c30a07b343cac77cf4c86aad823b808ce7",
+      "size_bytes": "10530"
+    },
+    {
+      "path": "Public Policies Tables/32 Tabla B32.xlsx",
+      "role": "public_policy_input",
+      "sha256": "4338d7cd5a0b226924bd105ffc8b36fd69b1417c2a6845ba068b8ae3c110fd36",
+      "size_bytes": "11692"
+    },
+    {
+      "path": "Public Policies Tables/33 Tabla B33.xlsx",
+      "role": "public_policy_input",
+      "sha256": "9896de8f952f7c7e15895bd5c784d1eba58a8afd3bd0532cb2fde2b8e2f5d52a",
+      "size_bytes": "9274"
+    },
+    {
+      "path": "Public Policies Tables/34 Tabla B34.xlsx",
+      "role": "public_policy_input",
+      "sha256": "79e68b9042837b70b7f8c6d504f39f9dfc900154d1aa419169bb5a8d044005b5",
+      "size_bytes": "10458"
+    },
+    {
+      "path": "Public Policies Tables/35 Tabla B35.xlsx",
+      "role": "public_policy_input",
+      "sha256": "3383e6f2817227610b9259d8edc0c3b1e40147720ed9aabbcecb3337c12a63b4",
+      "size_bytes": "15552"
+    },
+    {
+      "path": "Public Policies Tables/36 Tabla B36.xlsx",
+      "role": "public_policy_input",
+      "sha256": "ab6ff5bb00a0a3c6013946efdb169aecaa1ba7e705a748c48aea33dfa71180e5",
+      "size_bytes": "9205"
+    },
+    {
+      "path": "Public Policies Tables/37 Tabla B37.xlsx",
+      "role": "public_policy_input",
+      "sha256": "1bc2bed9c11a64a9bc4d864e010b95c31fdf94234fd9ea49197a4f18be4d39e3",
+      "size_bytes": "11367"
+    },
+    {
+      "path": "Public Policies Tables/38 Tabla B38.xlsx",
+      "role": "public_policy_input",
+      "sha256": "089db815c1240d0f7f378b07ad84c77258846fe05a92e853cf6b67bd574ae8d3",
+      "size_bytes": "10020"
+    },
+    {
+      "path": "Public Policies Tables/39 Tabla B39.xlsx",
+      "role": "public_policy_input",
+      "sha256": "c8c4a71104218ddaf4a586a58b76d4529678bf5f6e2a40f2613c4f7846ffba77",
+      "size_bytes": "13540"
+    },
+    {
+      "path": "Public Policies Tables/40 Tabla B40.xlsx",
+      "role": "public_policy_input",
+      "sha256": "3ecc4294783560f9e0e88afd0c6d4d5e95c8ca99bac4f28f02cba37f836c6199",
+      "size_bytes": "21793"
+    },
+    {
+      "path": "Public Policies Tables/41 Tabla B41.xlsx",
+      "role": "public_policy_input",
+      "sha256": "d22817547b6c064223c75f0ace2c67dc82786365ae6f97f06374501f6f0d7e9b",
+      "size_bytes": "9576"
+    },
+    {
+      "path": "Public Policies Tables/42 Tabla B42.xlsx",
+      "role": "public_policy_input",
+      "sha256": "cf163ce469970deec22337af9bab03cf4bab99f19fa3ae2aadfa38a60d5dc1ac",
+      "size_bytes": "14963"
+    },
+    {
+      "path": "Public Policies Tables/43 Tabla B43.xlsx",
+      "role": "public_policy_input",
+      "sha256": "d9e79340f2a681dfdf2ea351f19d325b214f37b4f6ec2d93519188720830d695",
+      "size_bytes": "9312"
+    },
+    {
+      "path": "Public Policies Tables/44 Tabla B44.xlsx",
+      "role": "public_policy_input",
+      "sha256": "f899374da89a5aad32fdfc27c4671b079566378d7cf2cd1da8f915173981a9e1",
+      "size_bytes": "10166"
+    },
+    {
+      "path": "Public Policies Tables/45 Tabla B45.xlsx",
+      "role": "public_policy_input",
+      "sha256": "d7e69d372c51f4ec18b81ce16b3b98423100cc975bbc02e01a7e96e1c65b8611",
+      "size_bytes": "9305"
+    },
+    {
+      "path": "Public Policies Tables/46 Tabla B46.xlsx",
+      "role": "public_policy_input",
+      "sha256": "12cfbe7c4be586c128c42f6cdc84e5e3cedd0752d92c7b097e7d9a9595237af4",
+      "size_bytes": "11359"
+    },
+    {
+      "path": "Public Policies Tables/47 Tabla 17.xlsx",
+      "role": "public_policy_input",
+      "sha256": "a4eb3c293a66810a64c68eccef6c67d0fed8ed108155c83ae888d006a339a439",
+      "size_bytes": "36252"
+    },
+    {
+      "path": "Public Policies Tables/48 Tabla 19.xlsx",
+      "role": "public_policy_input",
+      "sha256": "671c56237f6186853a4926ed5000ddd0e535af5b2655cbf78bcf6ffbbc957a64",
+      "size_bytes": "63860"
+    },
+    {
+      "path": "Public Policies Tables/49 Tabla 21 .xlsx",
+      "role": "public_policy_input",
+      "sha256": "36178b85f83071e881ef8ffd285b7e8ba3588cbe32ee5e8a27db4522317c4d9b",
+      "size_bytes": "40630"
+    },
+    {
+      "path": "Public Policies Tables/README.md",
+      "role": "public_policy_input",
+      "sha256": "60e30f2de104abb78d767e1a79978c9c6b25298db9f1327265c4f878714dde44",
+      "size_bytes": "839"
+    },
+    {
+      "path": "Google Colab Notebooks/DS_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb",
+      "role": "exploratory_notebook",
+      "sha256": "dc4144e6b4cd7f417226f403585924e35f1e247f0492c5cac044a3ba8d989e6b",
+      "size_bytes": "44326"
+    },
+    {
+      "path": "Google Colab Notebooks/Extractor_Neo4j_ASDI_GBIF.ipynb",
+      "role": "exploratory_notebook",
+      "sha256": "527f9847fd716543ff814cc3ecfeb24b15b705b6ffe59d982c6492654db0e8cb",
+      "size_bytes": "216863"
+    },
+    {
+      "path": "Google Colab Notebooks/Extractor_Neo4j_ASDI_Sustainable_Public_Policies_MX.ipynb",
+      "role": "exploratory_notebook",
+      "sha256": "544bb8aae1eabe7deeda9f8c03955847c40b1b4dc1f40571efb04261f765d1fd",
+      "size_bytes": "8234"
+    },
+    {
+      "path": "Google Colab Notebooks/Neo4j_ASDI_Sustainable_Public_Policies.ipynb",
+      "role": "exploratory_notebook",
+      "sha256": "6bda32405ed9c77b3f66628e7bedf294459324170533c621cc0afd43a0b6d09e",
+      "size_bytes": "6792"
+    },
+    {
+      "path": "Google Colab Notebooks/NLP_Neo4j_ExpertIA_Sustainable_Public_Policies_MX.ipynb",
+      "role": "exploratory_notebook",
+      "sha256": "d1fefe32bdaa2e4578fb76fbcfe916a36231ffe4fb2fa9279d36b440338dea22",
+      "size_bytes": "50715"
+    },
+    {
+      "path": "Google Colab Notebooks/README.md",
+      "role": "notebook_documentation",
+      "sha256": "cdc6ac84ce47716db37ca6f5eefdeb419ec2282e6f8390968450ccbd2e87f03c",
+      "size_bytes": "1271"
+    }
+  ],
+  "limitations": [
+    "External source URLs and access dates remain incomplete for several historical tables.",
+    "Neo4j database reconstruction is represented as graph CSV artifacts; Cypher migrations remain a publication task.",
+    "The DOI field is intentionally omitted until an archival release is minted."
+  ],
+  "outputs": [
+    {
+      "path": "reproducible-scholarship/outputs/graph/edges.csv",
+      "sha256": "af85e9b68ad17a86fb393aaab977c68ed0d02ecf6556c5bf0f1504d61562aeea",
+      "size_bytes": "143398"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/graph/nodes.csv",
+      "sha256": "3594d17500e2c45c84c5856b0b02f9e28b920dc85e687cff56c9f752105d7e87",
+      "size_bytes": "180168"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/manifests/summary.json",
+      "sha256": "ab44a75c1b7657c232ab29a16fe32dfd7bb01a605a6bebb690cdf8ca59dff445",
+      "size_bytes": "128"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/README.md",
+      "sha256": "1e48e80cfe4360365b44c572162dedaebd3d51618fb303982863c08bda9123ab",
+      "size_bytes": "817"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/tables/asdi_datasets.csv",
+      "sha256": "88c9630b0d7a8a4c9ea82024de7a52679850b4d09a65e44e4936c40ef33c720b",
+      "size_bytes": "15634"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/tables/file_inventory.csv",
+      "sha256": "94d7e2389b6e65ca98ddf05e73e5ecb8d8f3afdd188663dcb0bc684839321343",
+      "size_bytes": "8150"
+    },
+    {
+      "path": "reproducible-scholarship/outputs/tables/sdg_policy_indicators.csv",
+      "sha256": "920e7d6fd7c8b0d6ad082a07653dab99d48a41b0d3eaa0be5af73e6267782ebd",
+      "size_bytes": "149671"
+    }
+  ],
+  "repository": "https://github.com/ekaropolus/recommender_and_graph_spp",
+  "run_id": "reproducible-scholarship-v0",
+  "scope": "Part II reproducible layer generated only from committed repository inputs."
+}
