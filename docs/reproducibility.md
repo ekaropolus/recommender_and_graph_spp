@@ -1,7 +1,19 @@
 # Reproducibility Guide
 
-This guide describes how to move from the current research archive to a
+This guide describes how to move from the current thesis research archive to a
 reproducible analysis run.
+
+## Two Tracks
+
+This repository now separates reproducibility into two tracks:
+
+- **Part I - Thesis-dependent archive:** validates that the thesis-supporting
+  materials are documented, auditable, and free of committed credentials in the
+  current files.
+- **Part II - Fully reproducible scholarship:** defines the additional work
+  required for a publication-grade computational package.
+
+The Part II plan lives in `reproducible-scholarship/`.
 
 ## 1. Install Dependencies
 
@@ -57,12 +69,16 @@ order:
   `outputs/` or release artifact, not committed ad hoc.
 - Several data files need source-level provenance notes before formal release.
 
-## 6. Recommended Next Hardening Step
+## 6. Part II Hardening Path
 
-Create a `src/` pipeline that:
+The fully reproducible scholarship track should create a `src/` pipeline that:
 
 1. reads committed CSV/XLSX inputs;
 2. normalizes table names and schemas;
 3. emits deterministic graph node/edge CSVs;
 4. writes a reproducible Cypher import script;
 5. produces a machine-readable run manifest with checksums.
+
+See `../reproducible-scholarship/checklist.md` and
+`../reproducible-scholarship/run-manifest-template.json` for the release
+criteria and execution metadata template.

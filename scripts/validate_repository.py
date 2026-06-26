@@ -24,6 +24,9 @@ REQUIRED_PATHS = [
     "docs/provenance.md",
     "docs/reproducibility.md",
     "docs/repository-audit.md",
+    "reproducible-scholarship/README.md",
+    "reproducible-scholarship/checklist.md",
+    "reproducible-scholarship/run-manifest-template.json",
     "ASDI Tables",
     "Public Policies Tables",
     "Google Colab Notebooks",
@@ -37,7 +40,7 @@ SECRET_PATTERNS = [
 ]
 
 SKIP_DIRS = {".git", "__pycache__", ".ipynb_checkpoints"}
-TEXT_EXTENSIONS = {".md", ".py", ".txt", ".csv", ".cff", ".example", ".ipynb", ""}
+TEXT_EXTENSIONS = {".md", ".py", ".txt", ".csv", ".cff", ".example", ".json", ".ipynb", ""}
 
 
 def iter_files() -> list[Path]:

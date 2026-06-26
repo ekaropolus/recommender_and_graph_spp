@@ -1,0 +1,37 @@
+{
+  "run_id": "YYYYMMDD-HHMMSS-short-name",
+  "repository": "https://github.com/ekaropolus/recommender_and_graph_spp",
+  "commit": "<git-commit-sha>",
+  "created_at_utc": "YYYY-MM-DDTHH:MM:SSZ",
+  "environment": {
+    "python": "<version>",
+    "platform": "<os-and-architecture>",
+    "requirements_file": "requirements.txt"
+  },
+  "inputs": [
+    {
+      "path": "<input-file-path>",
+      "sha256": "<input-file-sha256>",
+      "source": "<source-url-or-archive-id>",
+      "accessed_on": "YYYY-MM-DD",
+      "license": "<license-or-use-basis>"
+    }
+  ],
+  "pipeline": [
+    {
+      "step": "<step-name>",
+      "command": "<command-used>",
+      "outputs": [
+        "<output-file-path>"
+      ]
+    }
+  ],
+  "outputs": [
+    {
+      "path": "<output-file-path>",
+      "sha256": "<output-file-sha256>",
+      "description": "<what-this-output-represents>"
+    }
+  ],
+  "notes": "<manual-notes-or-known-limitations>"
+}

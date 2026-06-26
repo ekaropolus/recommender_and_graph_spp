@@ -18,6 +18,8 @@ Audit date: 2026-06-26
 - It has a permissive MIT license.
 - The README now names the academic context and current reproducibility status.
 - Credentials are expected through environment variables rather than literals.
+- The repository now separates the thesis-dependent archive from the future
+  fully reproducible scholarship track.
 
 ## Issues Addressed In This Curation
 
@@ -26,6 +28,8 @@ Audit date: 2026-06-26
 - Added citation metadata through `CITATION.cff`.
 - Added provenance and reproducibility documentation.
 - Added a validation script for notebook JSON and common secret patterns.
+- Added a second-track reproducible scholarship plan, checklist, and run
+  manifest template.
 
 ## Remaining Risks
 
@@ -33,6 +37,8 @@ Audit date: 2026-06-26
 - Git history has not been rewritten.
 - Notebooks still depend on external services and should be converted to scripts.
 - Data provenance is not yet complete at every table level.
+- The fully reproducible scholarship track is currently a scaffold, not an
+  implemented pipeline.
 - No DOI has been minted.
 
 ## Release Criteria For A Formal Research Artifact

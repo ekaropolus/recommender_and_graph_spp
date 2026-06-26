@@ -35,6 +35,19 @@ does not contain the full doctoral dissertation text, institutional documents,
 or private academic records. Those should remain in the controlled document
 archive unless intentionally published elsewhere.
 
+## Relationship To The Reproducible Scholarship Track
+
+The thesis archive and the reproducible scholarship track have different roles:
+
+- The thesis archive preserves the computational evidence associated with the
+  doctoral work.
+- The reproducible scholarship track defines the extra work required for a
+  later computational publication that can be independently rerun.
+
+The second track should not be cited as proof that the original thesis already
+had a complete deterministic pipeline. It is a transparent hardening path from
+the thesis materials to a stronger scholarly artifact.
+
 ## Current Evidence Level
 
 The repository is sufficient as a public pointer to the thesis-supporting code

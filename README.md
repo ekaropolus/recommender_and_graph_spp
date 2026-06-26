@@ -2,7 +2,12 @@
 
 Research archive and reproducibility scaffold for doctoral thesis work on graph-based recommendation systems for sustainable public policy analysis.
 
-## Academic Context
+The repository is organized in two parts:
+
+- **Part I - Thesis-dependent research archive:** the data tables, notebooks, and documentation that support the doctoral thesis.
+- **Part II - Fully reproducible scholarship track:** a separate roadmap for turning the thesis archive into a deterministic, citable, computational research package.
+
+## Part I - Thesis-Dependent Research Archive
 
 This repository supports the doctoral research project:
 
@@ -14,7 +19,7 @@ The thesis studies how public policy documents, sustainability indicators, and i
 
 This repository is not a polished software product. It is a curated research archive containing thesis-supporting data tables, exploratory notebooks, graph construction routines, and documentation needed to make the work auditable.
 
-## Research Questions
+### Research Questions
 
 The repository is organized around these operational questions:
 
@@ -23,17 +28,20 @@ The repository is organized around these operational questions:
 3. Which data structures are needed to move from static policy documents toward computable public-policy intelligence?
 4. What evidence from the thesis can be preserved as reusable research infrastructure?
 
-## Repository Contents
+### Repository Contents
 
 - `ASDI Tables/`: sustainability indicator and open-data dictionaries used as structured inputs.
 - `Public Policies Tables/`: policy and development-plan tables used for graph and recommendation experiments.
 - `Google Colab Notebooks/`: exploratory notebooks for Neo4j graph construction, ASDI/GBIF extraction, and NLP-assisted policy analysis.
 - `docs/`: research map, provenance notes, and reproducibility guidance.
+- `reproducible-scholarship/`: second-track plan for full computational reproducibility.
 - `scripts/`: lightweight validation utilities for repository hygiene.
 
 ## Reproducibility Status
 
-Current status: **curated research archive, partial reproducibility**.
+Part I status: **curated thesis archive, partial reproducibility**.
+
+Part II status: **reproducible scholarship scaffold, not yet a finished pipeline**.
 
 What is already present:
 
@@ -49,6 +57,18 @@ What remains intentionally flagged:
 - Historical notebooks were created in Colab and should be treated as exploratory execution records.
 - A fully automated end-to-end pipeline still needs to be derived from the notebooks.
 - Data provenance is documented at repository level, but several XLSX tables need table-level source notes before formal publication.
+
+## Part II - Fully Reproducible Scholarship Track
+
+The second part does not claim that the original thesis archive is already fully reproducible. It defines the work required to make a later scholarly release reproducible from source data to graph outputs.
+
+See [`reproducible-scholarship/`](reproducible-scholarship/) for:
+
+- the reproducibility target;
+- the publication-grade definition of done;
+- the dataset and graph-schema requirements;
+- the run-manifest template;
+- the release checklist for DOI-ready publication.
 
 ## Quick Start
 
@@ -86,6 +106,8 @@ Do not use it yet as:
 - [Thesis map](docs/thesis-map.md)
 - [Data provenance](docs/provenance.md)
 - [Reproducibility guide](docs/reproducibility.md)
+- [Fully reproducible scholarship track](reproducible-scholarship/README.md)
+- [Scholarship release checklist](reproducible-scholarship/checklist.md)
 - [Repository audit](docs/repository-audit.md)
 
 ## Citation
