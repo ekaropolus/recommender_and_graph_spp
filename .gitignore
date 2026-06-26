@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+outputs/
+artifacts/
+tmp/
+*.sqlite
+*.db

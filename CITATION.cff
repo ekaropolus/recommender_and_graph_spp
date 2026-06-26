@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the repository URL and the exact commit hash."
+title: "Recommender and Graph Systems for Sustainable Public Policy"
+type: software
+authors:
+  - family-names: "Valdes Porras"
+    given-names: "Edgar Antonio"
+repository-code: "https://github.com/ekaropolus/recommender_and_graph_spp"
+license: MIT
+abstract: "Research archive and reproducibility scaffold for doctoral thesis work on graph-based recommendation systems for sustainable public policy analysis."
+keywords:
+  - sustainable public policy
+  - recommender systems
+  - policy graphs
+  - Neo4j
+  - doctoral thesis
